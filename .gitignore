@@ -6,19 +6,15 @@ __pycache__/
 *.egg-info/
 .env
 
-# Original individual MP3 files (not needed for deployment)
+# Python environment
+*.pyc
+__pycache__/
+
+# Secrets
+.env
+
+# Original individual MP3 files (not needed - we have combined)
 KBUR3-Twr-Oct-*.mp3
-
-# Transcripts and data
-*.json
-processed/*.txt
-processed/concat_list.txt
-
-# Scripts (not needed for deployment)
-*.sh
-*.py
-f.txt
-concat_list.txt
 
 # OS files
 .DS_Store

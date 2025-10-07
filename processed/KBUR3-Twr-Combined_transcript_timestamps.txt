@@ -1,0 +1,1020 @@
+[0.00s - 2.32s]  Ground at 7 miles final and AMBRE Airfoil 1-5
+[3.36s - 8.00s]  Burbank traffic, Coast 3655, 3 miles final, runway 8, Burbank
+[8.80s - 13.04s]  Burbank traffic, Coast 3655, short final, runway 8, Burbank
+[13.84s - 17.52s]  SoCal Approach, Coast 3655, on the ground, please cancel
+[18.00s - 20.64s]  Yeah, 3655, SoCal Approach, sorry for cancellation, receive
+[21.44s - 25.76s]  And Burbank traffic, Coast 3655, on the ground, runway 8
+[26.72s - 33.68s]  Burbank traffic, Southwest 1971, we'll be crossing runway 8 from north to south, sorry, Southwest 1971
+[34.48s - 43.84s]  Burbank traffic, Southwest 2998, we're crossing runway 8, so we're going to, we're crossing runway 8, 29
+[44.48s - 49.28s]  Burbank traffic, going across, left of your own station, just southwest of you
+[50.24s - 57.92s]  Burbank traffic, Southwest 737-2998, crossing runway 1-5 at Delta, Burbank traffic
+[58.56s - 62.08s]  Attention all aircraft, traffic on the 4 mile final, runway 8, this is AMBRE Air
+[62.72s - 64.32s]  FLEXJET 446, SoCal
+[65.28s - 70.72s]  Burbank, FLEXJET 446, short final for runway 8
+[72.00s - 79.04s]  Burbank traffic, Southwest 737-2998, we're crossing runway 1-5 at Bravo to do Burbank traffic
+[79.92s - 81.92s]  Hey Burbank tower, Southwest 695
+[82.80s - 84.24s]  Southwest 695, SoCal
+[85.36s - 88.72s]  Hey, are you guys, is clearance open still, or is it closed for Burbank?
+[89.36s - 92.40s]  It's closed, everything in the tower is closed, you have to call the 800 line
+[92.88s - 93.44s]  Alright, thank you
+[94.72s - 98.48s]  Sorry, I was just getting my headset on, you said everything's closed for, like, our clearances?
+[99.36s - 104.88s]  Clearance is closed, ground's closed, local's closed, the tower is closed due to staffing
+[104.88s - 108.00s]  Please contact SoCal on the 800 number in the green book for your clearance
+[109.36s - 109.92s]  Alright
+[110.96s - 116.16s]  Burbank traffic, FLEXJET, taxiing clear on the way to Jackson AFB, Burbank
+[119.12s - 129.12s]  Burbank traffic, East 737-2998, gonna cross the runway number 8 north of runway 8
+[129.92s - 136.48s]  Burbank traffic, Gulfstream 1-Charlie-Charlie is on a 5 mile final, runway 8 at Burbank
+[137.36s - 139.36s]  Envoy 3696
+[140.24s - 146.08s]  Burbank traffic, Jetspeed 19, Gulfstream is 3 miles final, runway 8 at Burbank
+[147.60s - 155.76s]  Burbank traffic, Sierra 883, Echo Sierra is 10 miles south of the airport
+[159.12s - 165.28s]  Burbank traffic, TV7's about a mile south of runway 8, I got the traffic on final and final pass behind you, northbound
+[165.28s - 167.68s]  and then park as it's north of runway 8
+[168.48s - 174.56s]  Burbank traffic, Gulfstream 1-Charlie-Charlie, 1 mile final, runway 8 at Burbank
+[175.68s - 183.68s]  Burbank traffic, Sierra 883, Echo Sierra is 5 miles south of the airport, 15 miles north of the airport, for runway 1, sorry
+[184.48s - 190.80s]  Burbank traffic, TV7, we'll be clearing up on the runway, we'll be clearing up here on my left-hand side
+[191.76s - 198.32s]  Burbank traffic, TV7's crossing runway 8 now, behind the MV, sorry, the Gulfstream
+[198.32s - 203.20s]  and we'll be on station just north of runway 8, about 1,500
+[203.20s - 209.76s]  Burbank traffic, Gulfstream 1-Charlie-Charlie, clearing runway 8, runway 8 at Burbank, 5 miles south
+[209.76s - 213.52s]  Gulfstream 1-Charlie-Charlie, SoCal Airport, canceling IFR
+[213.52s - 217.36s]  Yeah, 1-Charlie-Charlie, we canceled on final
+[217.36s - 218.40s]  Roger
+[218.80s - 226.56s]  Burbank traffic, TV7 is now just to the northwest of midfield, on station, 1,600
+[226.56s - 233.44s]  Burbank traffic, Pilot 316 has just demanded northwest along the 170 to Whiteman, 1,400
+[233.44s - 237.76s]  Roger, Sierra 883, Echo Sierra, just be advised, top left traffic departing, 1-5
+[237.76s - 240.64s]  Roger, Sierra 883, Echo Sierra
+[240.64s - 245.60s]  And jet speed 19 is holding short of 1-5, that's Burbank
+[245.68s - 249.36s]  Burbank traffic, Pilot 136 has...
+[250.32s - 259.04s]  Burbank traffic, Sierra 883, Echo Sierra, 3 miles final runway 07, making a left 360 for departing traffic
+[259.04s - 260.56s]  Burbank traffic
+[261.28s - 267.52s]  Burbank traffic, Blue 16, crossing over the extended centerline of runway 8, call left north, left south
+[268.16s - 274.80s]  Burbank traffic, TV9, on station, 1 mile southwest of field, cleared over by centerline
+[275.20s - 281.68s]  Burbank traffic, just be advised, top left traffic is holding short of 1-5, on station, 1-5
+[281.68s - 284.24s]  Burbank traffic
+[284.24s - 285.76s]  That's Burbank
+[285.76s - 287.28s]  Yes, it is
+[287.28s - 291.60s]  Ok, so we can proceed out of your VFR, if we need it
+[291.60s - 294.88s]  Or you can call SoCal on the 800 number for your clearance
+[294.88s - 301.84s]  Burbank traffic, Sierra 883, Echo Sierra, 2 miles final runway 05, closing the runway, Burbank traffic
+[301.84s - 304.24s]  05-0, Quebec, SoCal, you up?
+[304.96s - 311.28s]  Burbank traffic, Sierra 883, Echo Sierra, short final runway 05, full stop, Burbank traffic
+[311.28s - 319.28s]  Burbank traffic, Sierra 883, Echo Sierra, 2 miles final runway 05, full stop, Burbank traffic
+[325.28s - 332.40s]  Burbank traffic, Southwest 737, 29-98, departing runway 15 at Burbank
+[332.96s - 340.00s]  Burbank traffic, Southwest 737, flight number 29-98, departing runway 15 at Burbank, any other traffic, please advise
+[340.00s - 346.24s]  TV7 is on station, just north of runway 8, no factor for the centerline, 1,600
+[346.24s - 351.12s]  Copy, and TV9, talk to the Southwest, also no factor for you
+[353.60s - 358.48s]  Burbank traffic, Southwest 1591, resolution from Alpha 3, Burbank traffic
+[358.96s - 366.08s]  Burbank traffic, Southwest 29-98, out of 1,000, proceed departing southwest of Burbank, off 15, Burbank
+[366.72s - 367.76s]  TV7, SoCal
+[368.48s - 369.60s]  TV7
+[370.08s - 373.68s]  TV7, do you know who the helicopter is just south of runway 8 at 1,300?
+[376.08s - 378.80s]  SoCal, that's TV9
+[379.44s - 381.52s]  And that's TV9 at south of runway 8?
+[381.92s - 382.96s]  Affirm, sir
+[383.44s - 384.00s]  Roger
+[384.96s - 385.68s]  See you
+[386.64s - 393.60s]  Burbank traffic, Cessna 548, is on the ILS Zulu, 5 miles out, runway 8, Burbank
+[394.48s - 405.76s]  Burbank traffic, Southwest 1591, we're on Alpha, we're taxiing, we'll be crossing runway 8 eventually, and taxiing runway 15, Burbank
+[406.56s - 411.76s]  Burbank traffic, Cessna 548, is 3 miles final for runway 8, Burbank
+[412.72s - 417.52s]  Burbank traffic, Cessna 548, latitude short final, runway 8, Burbank
+[418.88s - 423.92s]  Burbank traffic, TV5, Holley Reservoir, heading towards Burbank, 1.7
+[424.80s - 429.60s]  Burbank traffic, Citation 548, expect to clear runway 8, Burbank
+[430.40s - 432.08s]  TV5, SoCal, where are you going?
+[433.04s - 438.00s]  530, we were going to come in and work just south of the airport, at 1.7
+[438.80s - 440.00s]  Where's TV9 at?
+[440.72s - 449.20s]  Burbank traffic, Southwest 1591, we're about to cross runway 8 on Alpha, and then we'll take a left turn on Delta
+[452.64s - 456.40s]  Burbank traffic, we're at 3.3, pushing off the Alpha 9, Burbank
+[456.96s - 460.56s]  Burbank traffic, Citation on Texas, Delta, Burbank
+[461.28s - 465.20s]  You got 7 north of runway 8 at 9 south
+[465.68s - 466.64s]  Burbank traffic
+[467.20s - 468.32s]  MTV5, SoCal
+[468.88s - 469.84s]  TV5, go ahead
+[470.24s - 471.84s]  Where south of the airport are you working at?
+[472.32s - 476.08s]  Just south of runway 8, and west of 1.5, we'll be holding there
+[477.20s - 479.20s]  Roger, be advised there's another helicopter out there
+[479.68s - 481.92s]  Okay, TV5, roger, talk to you tomorrow, I'll turn it in, thanks
+[482.96s - 492.48s]  Burbank traffic, TV4 is at 5.1.70, moving into the northwest quadrant, we've got the other two helicopters in sight, remain clear of the runways at all times, Burbank
+[493.52s - 497.52s]  Burbank traffic, Southwest 1591, we're going to cross runway 1.5 on Alpha, and then we'll take a left turn on Delta
+[498.08s - 498.72s]  Locked
+[499.44s - 501.84s]  And we're at 3.3, pushing off Alpha 9
+[505.28s - 509.60s]  Burbank traffic, Southwest 1591, Bravo, taxi to runway 1.5, thank you
+[510.80s - 519.84s]  Burbank traffic, Vick's Drive 110, crossing runway 8 on Charlie 6, we're going to continue southwest of Alpha runway
+[520.56s - 521.28s]  Burbank traffic
+[522.24s - 533.92s]  Burbank traffic, Southwest 1574, we're off of gate Alpha 6, taxiing now down Alpha, and we'll hold short of a person to check and then cross on Alpha
+[534.80s - 536.80s]  TV7, contact SoCal 124.6
+[538.00s - 539.44s]  124.6, TV7
+[540.00s - 542.16s]  TV5, contact SoCal 124.6
+[543.60s - 545.28s]  TV5, 124.6
+[546.32s - 548.16s]  TV9, SoCal 124.6
+[548.72s - 549.44s]  Will code you
+[551.28s - 563.28s]  Burbank traffic, FedEx 1805 heavy, descending to 9000 feet, pushing my key
+[564.24s - 566.32s]  TV9, contact SoCal 124.6
+[567.60s - 575.36s]  Burbank traffic, Southwest 1591, we're crossing runway 1.5 at Bravo 2, taxiing to runway 5 via Alpha
+[576.56s - 577.36s]  Burbank, go
+[578.08s - 586.16s]  Burbank traffic, Southwest 1574, we're crossing runway 8 on Alpha, and then we'll hold short of 1.5 at Burbank
+[586.16s - 597.84s]  Burbank traffic, Southwest 1574, we're off of gate Alpha 6, taxiing now down Alpha, and we'll hold short of a person to check and then cross on Alpha
+[598.64s - 600.80s]  TV7, contact SoCal 124.6
+[601.84s - 603.28s]  124.6, TV7
+[603.84s - 606.08s]  TV5, contact SoCal 124.6
+[607.44s - 609.12s]  TV5, 124.6
+[610.16s - 612.56s]  TV9, SoCal 124.6
+[612.56s - 613.20s]  Will code you
+[615.12s - 627.04s]  Burbank traffic, FedEx 1805 heavy, descending to 9000 feet, pushing my key
+[628.08s - 630.24s]  TV9, contact SoCal 124.6
+[631.20s - 639.20s]  Burbank traffic, Southwest 1591, we're crossing runway 1.5 at Bravo 2, taxiing to runway 5 via Alpha
+[640.32s - 641.12s]  Burbank, go
+[641.92s - 650.32s]  Burbank traffic, Southwest 1574, we're crossing runway 8 on Alpha, and then we'll hold short of 1.5 at Burbank
+[651.20s - 659.12s]  Burbank traffic, Southwest 1574, crossing runway 5 on Delta, and then a right turn on Bravo towards 1.5, Burbank traffic
+[659.92s - 667.28s]  Burbank traffic, 6Drive178, we're crossing runway 5 on Alpha, and then a right turn on Bravo towards 1.5, Burbank traffic
+[668.32s - 672.40s]  Burbank traffic, FedEx 1805 heavy, is my key
+[673.28s - 679.52s]  Burbank traffic, Southwest 695, gate Alpha 2, pushing back onto the ramp
+[681.20s - 689.04s]  Burbank traffic, 6Drive178, we're crossing runway 5 on Alpha, and then a right turn on Bravo towards 1.5, Burbank traffic
+[690.08s - 695.12s]  Burbank traffic, Burbank 323, cross 8 at Delta 1, Burbank
+[696.00s - 707.04s]  Burbank traffic, Southwest 1574, crossing runway 5 on, uh, correction, runway 1.5 on Bravo 2, and then a turn on Alpha, Burbank traffic
+[707.92s - 717.12s]  Burbank traffic, FedEx 1805 heavy, is crossing Silex on the ILS Zulu Approach, runway 8, Burbank
+[718.08s - 722.40s]  Burbank traffic, 6Drive178, cleared to runway 8
+[722.88s - 725.12s]  Burbank traffic, 6Drive178, cleared to runway 8
+[725.92s - 730.56s]  Hey, so are you guys getting up to 1.5 by taxiing up Bravo, or what?
+[731.12s - 731.92s]  Affirmative
+[732.56s - 736.48s]  I thought it was closed, but the other way is staying less than 79 feet
+[737.12s - 746.40s]  Burbank traffic, Southwest 695, taxiing ramp, uh, crossing runway 8 to Alpha, Burbank traffic, we'll follow you, uh, Spirit
+[747.12s - 750.48s]  Burbank traffic, Spirit 323, crossing 1.5, East Delta, Burbank
+[751.28s - 761.04s]  Burbank traffic, Southwest 695, cleared for runway 8, taxiing Alpha, Delta, uh, crossing 1.5, proceeding up Bravo, Burbank traffic
+[761.76s - 764.32s]  Burbank traffic, Spirit 323, cleared 1.5, Burbank
+[765.84s - 769.84s]  Burbank traffic, FedEx 1805 heavy, is FUDI, ILS Zulu
+[770.80s - 777.60s]  Burbank traffic, Southwest 695, cleared for runway 1.5, taxiing Bravo, Burbank
+[779.60s - 788.56s]  Burbank traffic, FedEx 1805 heavy, 1,000 feet, on the ILS Zulu Approach, runway 8, Burbank
+[790.00s - 795.84s]  Burbank traffic, FedEx 1805 heavy, short final runway 08, Burbank
+[796.80s - 800.80s]  Burbank traffic, Spirit 323, just crossed the 1.5, Bravo 2, Burbank
+[807.60s - 815.60s]  Burbank traffic, Southwest 695, we'll be turning right, Bravo 2, crossing 1.5 to Alpha, Burbank traffic
+[816.32s - 819.12s]  Burbank traffic, Spirit 323, cleared 1.5
+[819.76s - 825.76s]  Burbank traffic, FedEx 1805, we're exiting runway 8 on the ILS Zulu Approach, Delta
+[826.24s - 828.80s]  Short 1.5, Burbank
+[830.00s - 832.40s]  FedEx 1805, still can't report, canceling I-4
+[833.20s - 838.16s]  On board, Burbank on board, 36.96, crossing runway 8, down here, Delta
+[839.84s - 844.40s]  Burbank traffic, Southwest 695, cleared runway 1.5 on Alpha, Burbank traffic
+[845.36s - 848.24s]  Burbank traffic, 36.96, Delta, check and check
+[848.24s - 861.20s]  Burbank traffic, FedEx 1805 heavy, is crossing runway 1.5 at Delta, Burbank
+[862.00s - 866.32s]  Burbank traffic, Southwest 3278, over at gate Alpha 1, pushing
+[867.04s - 873.44s]  Burbank traffic, Southwest 1691, we're lining up for runway 1.5, we'll be departing on the ORAS to departure, Burbank traffic
+[874.16s - 878.48s]  Burbank traffic, FedEx 1805 heavy, is crossing runway 1.5 at Burbank
+[879.20s - 883.04s]  Burbank traffic, Southwest 1691, we're lining up for runway 1.5, Burbank traffic
+[883.84s - 887.44s]  On board, 36.96, holding short of runway 1.5 on Delta
+[888.16s - 889.12s]  Say that again?
+[889.76s - 894.56s]  On board, 36.96, holding short of runway 1.5 on Delta, holding short
+[895.28s - 897.92s]  Burbank traffic, 36.96, holding short of runway 1.5 at Delta, Burbank
+[898.96s - 903.76s]  Burbank on board, 36.96, crossing runway 1.5 at Delta, Burbank
+[904.64s - 910.72s]  Burbank traffic, Southwest 1591, departed runway 1.5, switching to SoCal, Burbank
+[911.76s - 921.28s]  Burbank traffic, Southwest 3278, currently holding short of 1.5, we'll be crossing runway 8 on Alpha, and let's turn on Delta
+[921.92s - 924.40s]  Burbank traffic, 36.96, holding short of runway 1.5 at Delta, Burbank
+[925.52s - 932.24s]  Burbank traffic, Southwest 3278, crossing runway 8 on Alpha, Burbank traffic
+[933.12s - 938.24s]  Burbank traffic, FedEx 1805 heavy, crossing runway 08 at Delta
+[939.28s - 947.20s]  Burbank traffic, Southwest 3956, we're at Alpha 4, we'll be pushing back to East, Burbank traffic
+[948.16s - 954.88s]  Burbank traffic, Southwest 3278, clear of runway 8 on Alpha, holding short of 1.5 on Delta
+[955.60s - 960.64s]  Burbank traffic, Southwest 3278, crossing 1.5 on Delta, we'll be taking a right on Bravo, Burbank
+[961.60s - 969.76s]  Burbank traffic, on board 36.96, crossing runway 1.5 at Bravo 2, Burbank
+[970.64s - 975.60s]  Burbank traffic, Southwest 3278, clear of 1.5, let's turn right on Bravo, Burbank
+[976.32s - 982.72s]  Burbank traffic, Alaska 1106 is inbound runway 8 about 4 miles out, Burbank traffic
+[985.60s - 989.84s]  Burbank traffic, Alaska 1106, 3 mile final runway 8, Burbank traffic
+[990.96s - 995.92s]  Burbank traffic, Alaska 1106 is on a 2 mile final runway 8, Burbank traffic
+[996.88s - 1000.40s]  Burbank traffic, Alaska 1106, short final runway 8, Burbank traffic
+[1001.36s - 1009.20s]  Burbank traffic, Alaska 3278, crossing runway 15 at B2 onto A2, Burbank
+[1010.16s - 1015.20s]  Burbank traffic, Alaska 1106, making a left turn, D2, Burbank traffic
+[1016.40s - 1022.96s]  Burbank traffic, Alaska 3956 will be crossing runway 8 northbound on A, Burbank traffic
+[1023.92s - 1030.48s]  Burbank traffic, Alaska 3278, clear of 15 on A, Burbank
+[1031.12s - 1033.20s]  D, downwind
+[1033.68s - 1038.96s]  Yeah, we'll be able to hold for 15 on D, D35, 3956
+[1039.52s - 1040.56s]  Thanks guys, good luck
+[1041.12s - 1047.76s]  Burbank traffic, Alaska 3956 is holding short of runway 15 at D, Burbank traffic
+[1048.56s - 1054.48s]  Burbank traffic, Alaska 1150, B737 will be pushing off the A, Bravo 5
+[1055.12s - 1060.24s]  Burbank traffic, Skywest 3665 is pushing off of A7, Burbank
+[1060.56s - 1065.84s]  Burbank traffic, Big Track 110, upwind runway 15, we'll make it the right turn heading 210, climbing
+[1067.28s - 1075.52s]  Burbank traffic, Skywest 3956 is crossing runway 15 on D, westbound, Burbank traffic
+[1076.48s - 1082.72s]  Burbank traffic, Skywest 3956 is holding short of runway 15 on A, Bravo 5, Burbank traffic
+[1083.52s - 1092.80s]  Burbank traffic, Southwest 3956, clear of runway 15 on D, eastbound on A, Bravo 5, Burbank traffic
+[1096.32s - 1098.24s]  Big Track 178, SoCal Approach, you up?
+[1098.96s - 1100.16s]  We're up, Big Track 178
+[1100.72s - 1106.96s]  Big Track 178, SoCal Approach, you're clear to leave the void of 95235, 6 timeouts 2353 and 3 quarters
+[1107.52s - 1110.08s]  Void of 95235, go ahead
+[1110.80s - 1115.52s]  Burbank traffic, SoCal Approach, clear to leave the void of 95235, 6 timeouts 2353 and 3 quarters
+[1116.32s - 1121.04s]  Burbank traffic, SoCal Approach, 7878 is taking 5 in position, we'll be leaving the void of 95235, 6 timeouts 2353 and 3 quarters
+[1121.68s - 1127.60s]  Burbank traffic, Alaska 1150, hold short of runway 18, Skywest 3665
+[1128.40s - 1136.80s]  Burbank traffic, Cirrus 883, Gloucester is on the up and on the 8, we'll be making a right crosswind departure to Santa Monica, Burbank
+[1137.68s - 1145.04s]  Burbank traffic, Cirrus 883, Gloucester is turning right crosswind for departure to Santa Monica, we'll be switching over to SoCal, Burbank
+[1146.24s - 1153.76s]  Burbank traffic, Southwest 3956, holding short of runway 15 on Bravo 2, holding short, Burbank traffic
+[1154.72s - 1158.56s]  Burbank traffic, Big Pipe 17, holding short of runway 18
+[1159.20s - 1167.60s]  Burbank traffic, Southwest 3956, it's crossing runway 15 on Bravo 2, eastbound, Burbank traffic
+[1168.40s - 1174.56s]  Burbank traffic, Alaska 1106, crossing runway 8, taxiing next to runway 15 for 24
+[1176.32s - 1182.40s]  Burbank traffic, Southwest 3655, crossing runway 8 as a 26, as we approach Delta
+[1183.04s - 1189.84s]  Burbank traffic, Big Pipe 178 is switching to SoCal on our southwesterly turn off of 15, you guys have fun
+[1193.12s - 1198.08s]  Burbank traffic, Alaska 1106, we are clear of all runways and Bravo 4, Burbank traffic
+[1198.96s - 1206.48s]  Burbank traffic, Alaska 1150, taxiing from Alpha, B Bravo 5, we'll be crossing runway 8
+[1207.20s - 1212.32s]  Burbank traffic, Southwest 1574 is going into position, hold on runway 15, Burbank
+[1213.36s - 1220.72s]  Burbank traffic, Skywest 3655, taxiing on Delta, we'll be holding short of runway 15, Delta
+[1221.60s - 1223.68s]  Okay Skywest, you're giving us Midwest or are you going to continue?
+[1224.48s - 1225.84s]  Oh, we'll give way to you, huzzah
+[1225.84s - 1226.34s]  Thank you
+[1226.88s - 1234.00s]  Burbank traffic, Alaska 1150 is clear of runway 8 on taxiway Delta, holding short of runway 15
+[1234.88s - 1240.24s]  Burbank traffic, Southwest 1574 is clear for departure on 15, Burbank traffic
+[1241.04s - 1242.72s]  Alaska, are you going to keep holding short?
+[1242.72s - 1243.60s]  Absolutely
+[1243.60s - 1244.24s]  Roger, thank you
+[1245.04s - 1250.80s]  And Burbank area traffic, Alaska 1150 is crossing runway 15 on Delta, joining Bravo northbound
+[1251.68s - 1259.36s]  Burbank traffic, Skywest 3655, we'll be crossing behind Alaska on runway 15 and Bravo, Bravo
+[1260.96s - 1266.56s]  Burbank traffic, Southwest 1574, departing on Slab, see ya
+[1267.52s - 1275.52s]  Burbank area traffic, Alaska 1150, we'll be crossing runway 15 on Bravo 2, joining Alpha northbound
+[1276.64s - 1282.24s]  Burbank traffic, Southwest 1574, departing on Slab, see ya
+[1283.20s - 1291.20s]  Burbank area traffic, Alaska 1150, we'll be crossing runway 15 on Bravo 2, joining Alpha northbound
+[1292.08s - 1299.60s]  Burbank traffic, Skywest 3655, we'll be crossing runway 15 behind Alaska, to join Alpha northbound
+[1300.88s - 1307.20s]  And Burbank area traffic, Alaska 1150 is clear of runway 15 northbound on Alpha to join the conga line
+[1308.00s - 1309.04s]  1-4-6
+[1309.84s - 1311.04s]  Yeah, we'll see you in a few minutes
+[1312.64s - 1317.84s]  This is SoCal Approach on the CTAF, after avoid time gets off of VNI, then we'll have some more releases
+[1318.80s - 1323.92s]  Burbank traffic, Skywest 3655, clear of 15 northbound on Alpha to join the line
+[1324.96s - 1325.46s]  Welcome
+[1326.16s - 1326.80s]  Got water
+[1327.52s - 1329.36s]  Spirit 323, SoCal Approach, you ready?
+[1330.32s - 1332.56s]  Spirit 323, SoCal Approach, you ready to go?
+[1332.56s - 1333.20s]  Yeah, we're ready
+[1334.00s - 1335.28s]  Spirit 323 is ready
+[1335.84s - 1343.60s]  Spirit 323, roger your release for departure, your release is void, aft off by 0009, our time now is 0004 and one half
+[1344.24s - 1347.84s]  Release 00, aft off by 0009, Spirit 323
+[1348.64s - 1353.20s]  And Burbank traffic, Spirit 323, you should take runway 15 for departure, Burbank
+[1354.00s - 1360.64s]  And Burbank traffic, Spirit 323, we'll be departing the area to the southwest, Burbank
+[1361.44s - 1363.44s]  Southwest 695, SoCal, you ready to go?
+[1364.64s - 1365.20s]  Affirmative
+[1366.08s - 1368.32s]  Affirmative for Southwest 695
+[1368.40s - 1376.16s]  Southwest 695, roger your release for departure, your release is void, aft off by 0010, time now is 0006 and three quarters
+[1376.96s - 1380.80s]  And that was for Southwest 695, cleared for departure, Burbank
+[1381.52s - 1382.16s]  Affirmative
+[1383.04s - 1387.20s]  Burbank traffic, Southwest 695, take runway 5 for departure, Burbank traffic
+[1388.16s - 1390.88s]  Burbank traffic, Southwest 695, departing
+[1391.44s - 1400.16s]  And Burbank traffic, Southwest 695, just departed runway 15, turning heading 210
+[1401.44s - 1402.24s]  Burbank traffic
+[1405.12s - 1411.12s]  Burbank traffic, United 1669, bud inbound for runway 8, Burbank
+[1412.24s - 1419.60s]  Burbank traffic, United 1669, three miles to the west, inbound landing runway 8, Burbank
+[1420.88s - 1426.48s]  Burbank traffic, United 1669, short final for landing runway 8, Burbank
+[1427.60s - 1436.08s]  Burbank traffic, United 1669, we'll be exiting runway 8 to the south, Burbank traffic, and taxiing to gate B2
+[1437.12s - 1439.60s]  United 1669, SoCal, this is Starboard, cancelling IFR
+[1440.96s - 1446.56s]  United 1669, we are landing at Burbank, cancelling IFR
+[1447.12s - 1449.52s]  Thank you, Starboard, cancelling IFR, have a good day
+[1449.84s - 1451.44s]  Appreciate it, United 1669
+[1452.48s - 1454.08s]  Envoy 3696, SoCal
+[1454.80s - 1458.24s]  Just giving you a heads up, you're going to be following a Embraer that's about 10 miles out for your departure
+[1459.28s - 1470.48s]  And Burbank traffic, United 1669, we'll be turning south on Sierra 2 to part gate 82, or Bravo 2 for United 1669, Burbank
+[1471.52s - 1478.24s]  Burbank traffic, Big Stripe, November 937, Juliet X-rays on a 5 mile final for runway 8
+[1479.92s - 1484.72s]  Burbank traffic, Regional Jet 937, Juliet X-rays on a 2 mile final for runway 8
+[1485.68s - 1491.52s]  Burbank traffic, Regional Jet, November 937, Juliet X-rays, short final for runway 8, landing
+[1492.32s - 1494.96s]  Big Stripe 7621, verify landing is assured and cancelling IFR
+[1495.76s - 1499.36s]  That's affirmative, landing is assured, cancelling IFR, Big Stripe 7621
+[1499.92s - 1503.04s]  Big Stripe 7621, thanks, IFR cancellation is received, and have a good day
+[1503.36s - 1510.08s]  Envoy 3696, you are released for departure, your release is valid by 0025, 10 miles, 0020, one quarter
+[1511.04s - 1514.48s]  Envoy, Big Stripe 7621, can we cross the runway before you take off?
+[1516.08s - 1516.58s]  Roger
+[1517.12s - 1525.60s]  Burbank traffic, Regional Jet, November 937, Juliet X-rays, crossing runway 15, Charlie, Juliet X-rays, Burbank traffic
+[1526.48s - 1527.76s]  Thank you, Envoy, have a safe flight
+[1528.56s - 1534.80s]  Burbank traffic, Envoy 3696, departing to the southwest, have a good day, y'all, Burbank
+[1535.52s - 1539.04s]  Zulu SoCal, Burch on CTAF, Southwest 3278, you're next, right?
+[1539.44s - 1541.44s]  Affirm, ready to go, Southwest 3278
+[1541.84s - 1548.64s]  Alright, we got a better wind on the runway 8, and then after that it's going to be wide open for a while, so just expect them to land and then I'll get you released
+[1549.36s - 1550.96s]  Alright, how far out is he?
+[1551.84s - 1553.76s]  Right now, about 15 miles straight in
+[1554.00s - 1554.50s]  Appreciate it
+[1555.22s - 1558.42s]  Southwest 3278, it'll be a little bit longer, but we're pulling on two arrivals
+[1559.38s - 1561.38s]  Alright, thanks for the update
+[1562.10s - 1564.34s]  November 830, Alpha, Zulu SoCal, Burch
+[1565.38s - 1567.38s]  November 830, Alpha, Zulu SoCal, Burch
+[1568.42s - 1575.14s]  Burbank traffic, VELA 122, Boeing 737, we're on a 6 mile final runway 8, Burbank traffic
+[1576.26s - 1582.18s]  Burbank traffic, VELA Boeing 737, flight 122, 2.5 miles final runway 8, Burbank traffic
+[1583.14s - 1591.62s]  Burbank traffic, VELA 122, we're on the ground, we're in the internal apron around the terminal to go to Bravo 3, Burbank traffic
+[1592.42s - 1594.98s]  VELA 122, Zulu SoCal, just a quick break, cancelling IFR as well
+[1595.38s - 1597.86s]  Cancelling ISR for VELA 122
+[1598.18s - 1600.18s]  VELA 122, thanks for the offer, cancellation, receive, good day
+[1600.82s - 1602.50s]  Thank you, sorry for the trouble today
+[1603.22s - 1604.10s]  Not on you
+[1604.90s - 1612.58s]  Burbank traffic, Big Stripe 121, is set to 8.5 mile final for runway 8, Big Stripe 121
+[1613.30s - 1621.14s]  Burbank traffic, Big Stripe 121, is set to 8.5 mile final for runway 8, Big Stripe 121
+[1621.86s - 1629.94s]  Burbank traffic, Big Stripe 121 is an Embraer 135, Embraer 135 mile final for 8, Burbank traffic
+[1630.26s - 1634.02s]  Jepser 378, SoCal, you can expect to go up to Embraer on a 3 mile final
+[1634.26s - 1634.82s]  Copy that
+[1635.46s - 1644.18s]  Burbank traffic, Big Stripe 121, red and white, Embraer 135, got about a 1 mile final for runway 8, Burbank traffic
+[1644.90s - 1652.10s]  Burbank traffic, Big Stripe 121, is an Embraer 135, Embraer 135
+[1652.66s - 1654.90s]  Big Stripe 121, SoCal, verify canceling IFR?
+[1655.62s - 1657.54s]  IFR, cancel IFR, Big Stripe 121
+[1657.54s - 1662.18s]  Big Stripe 121, thanks IFR, cancellation received, have a good day, break, Southwest 3278, you're released for departure
+[1662.58s - 1667.86s]  you're released for departure, 0038, turn out 0035
+[1668.90s - 1673.06s]  traffic, greater for the release, and some voice on the left, 0038, Southwest 3278
+[1673.06s - 1677.54s]  Burbank traffic, Southwest 3278, lining up, runway 15 Burbank traffic
+[1677.54s - 1682.10s]  Media Tech, are ya'll holding short of 15, are ya'll crossing?
+[1682.10s - 1686.42s]  uh, we can cross if you've got time
+[1686.74s - 1688.02s]  ya you've got time
+[1688.02s - 1693.62s]  ok, we'll cross, Big Strip 121, we're crossing uh, 15, we're just coming to ramp over to Charlotte
+[1693.62s - 1696.66s]  you guys know what happens to the South when it's closed today?
+[1696.66s - 1697.94s]  traffic is
+[1697.94s - 1704.66s]  Burbank traffic, Southwest 3278, we're departing runway 15, departing out to the Southwest, Burbank traffic
+[1704.66s - 1709.22s]  Air Pro, Southwest 3956, we're number 1 now at Burbank
+[1709.22s - 1713.46s]  Southwest 3956, ok, roger, I want you to come in easy here, we're going out to the departure runway, get you released
+[1713.46s - 1714.90s]  awesome, thanks
+[1715.30s - 1723.06s]  Burbank traffic, Southwest 3278, we're turning, uh, right turn to 210 off of runway 15, Burbank traffic, going to departure
+[1723.06s - 1731.70s]  Southwest 3956, so Cal, you're released for departure, released as well, followed by 0042, time now is 0037 and one half
+[1731.70s - 1738.18s]  alright, 0042, airborne by that, Southwest 3956, we'll call you soon on the other
+[1738.18s - 1740.50s]  who's next, is it Alaska 1150?
+[1740.50s - 1742.34s]  yes sir, Alaska 1150, ready to go
+[1742.34s - 1743.54s]  alright, thanks
+[1743.78s - 1749.30s]  Burbank traffic, Southwest 3956 is lining up, runway 15
+[1749.30s - 1752.34s]  and I'll be on Alaska, is that SkyWest 3655?
+[1752.34s - 1753.78s]  that's correct
+[1753.78s - 1754.90s]  thank you
+[1754.90s - 1761.38s]  Burbank traffic, Southwest 3956, taking off runway 15, Burbank traffic
+[1761.38s - 1765.22s]  depart Southwest 3956, South Burbank 2, climbing to 4000
+[1765.22s - 1767.22s]  alright, contact departure 124.6
+[1767.22s - 1768.34s]  sorry about that
+[1768.34s - 1772.02s]  and for Alaska 1150 and SkyWest, it's going to be about 10 minutes
+[1772.34s - 1774.34s]  alright, thanks
+[1774.34s - 1780.82s]  Alaska 1150, you're waiting for a citation, that's now on a 10 mile final, and the overhead sector was saturated, that's the reason for the delay
+[1780.82s - 1782.42s]  copy that, thanks
+[1782.42s - 1783.62s]  no problem
+[1783.62s - 1786.42s]  SkyWest, you'll get released after Alaska 01
+[1786.42s - 1788.02s]  thanks
+[1788.02s - 1794.02s]  Burbank tower, uh, citation 83Z on the ILS Zulu, runway 8
+[1795.78s - 1798.74s]  83Z, Alpha, so Cal approach, verify canceling IAPR
+[1798.74s - 1800.74s]  affirm, we are granted
+[1800.98s - 1804.34s]  83Z, Alpha, thank you, IAPR cancellation received, have a good day
+[1804.34s - 1810.26s]  Alaska 1150, just waiting for one of the parts to depart off VNI, is that a void time, and then we'll get you, uh, you're released
+[1810.26s - 1811.70s]  roger, roger, copy
+[1811.70s - 1813.70s]  alright, copy, Alaska 1150
+[1813.70s - 1823.86s]  Burbank traffic, TV9 at Glencoe Pass, and track, uh, Northbound Fionn Station, Southwest of the field, with, uh, 5 minutes to go
+[1823.86s - 1825.86s]  Alaska 1150, so go
+[1825.86s - 1827.86s]  Alaska 1150, go ahead
+[1827.94s - 1848.34s]  Alaska 1150, you're released for departure, there's a, uh, TV helicopter about a mile southwest of the field at 1900, and then there's a VFR craft about 3 miles south of the field, northbound at 1100, and, uh, I'm sorry, at 1100, you're released for departure
+[1848.34s - 1854.74s]  okay, Alaska 1150, copy the traffic, uh, you're released for departure, and boarded a southbound flight 0101
+[1855.46s - 1860.98s]  Burbank area traffic, Alaska 1150, Boeing 737 lining up runway 15
+[1860.98s - 1867.06s]  Burbank traffic, Alaska 1150, departing runway 15, southwest departure
+[1867.06s - 1874.74s]  Burbank area traffic, Alaska 1150, in the turn, turn 210 heading, at a 1700 for 4000, good day
+[1874.74s - 1877.14s]  Skywest 3655, so go
+[1877.14s - 1879.78s]  go ahead, Skywest 3655
+[1880.18s - 1892.26s]  Skywest 3655, you're released for departure, use caution of, uh, TV helicopter southwest of the field, uh, clearance void at 0102, time now 0058 and three quarters
+[1892.26s - 1896.74s]  alright, released for departure, we'll call you in a bit in the air, so 3655
+[1896.74s - 1899.86s]  Burbank traffic, go to 3655
+[1899.86s - 1903.46s]  Burbank traffic, uh, 7373, Alpha
+[1904.42s - 1918.82s]  Heading back 1273, Alpha, hold for release, there's a Skywest taking runway 15, and then there's a, uh, a Horizon Air on final for Burbank, uh, they're, uh, about 15 miles out on final, so hold for release
+[1918.82s - 1926.18s]  Skywest 3655, departing runway 15, southwest departure, Burbank traffic
+[1926.66s - 1934.34s]  Burbank traffic, Skywest 3655, departing the pattern to the southwest, 210 heading, at a 1200 for 4000, good day
+[1934.34s - 1937.14s]  Medivac, 1273, Alpha, so go
+[1937.14s - 1938.74s]  yeah, go ahead
+[1938.74s - 1949.62s]  Medivac, 1273, Alpha, you're released for immediate departure off Runway 8, uh, clearance void at 0104, time now 0101, and that's a quarter
+[1949.62s - 1953.46s]  go ahead, Skywest 3655
+[1953.70s - 1959.22s]  Medivac, uh, 7373, Alpha, actually, cancel that, hold for release, hold for release on Runway 8
+[1961.22s - 1965.70s]  Medivac, 7373, Alpha, can you cancel, or can you, uh, taxi off the runway?
+[1965.70s - 1969.22s]  yeah, we can clear the runway for, uh, 7373, Alpha
+[1969.22s - 1972.74s]  Medivac, 7373, Alpha, okay, uh, taxi off the runway at
+[1972.74s - 1979.70s]  Burbank traffic, Skywest 3655, departing the pattern to the southwest, 210 heading, at a 1200 for 4000, good day
+[1979.70s - 1982.74s]  Medivac, 1273, Alpha, so go
+[1982.90s - 1984.42s]  yeah, go ahead
+[1984.42s - 1994.90s]  Medivac, 1273, Alpha, you're released for immediate departure off Runway 8, uh, clearance void at 0104, time now 0101, and that's a quarter
+[1994.90s - 1999.22s]  go ahead, Skywest 3655, departing the pattern to the southwest, 210 heading, at a 1200 for 4000, good day
+[1999.22s - 2004.74s]  Medivac, uh, 7373, Alpha, actually, cancel that, hold for release, hold for release on Runway 8
+[2006.74s - 2011.54s]  Medivac, 7373, Alpha, can you cancel, or can you, uh, taxi off the runway?
+[2011.86s - 2014.74s]  yeah, we can clear the runway for, uh, 7373, Alpha
+[2014.74s - 2021.94s]  Medivac, 7373, Alpha, okay, uh, taxi off the runway, and then you, and then give me a call back when you're number one again, holding short
+[2021.94s - 2026.82s]  okay, we're ready to go, number one, and we're clearing the runway for the south
+[2028.82s - 2030.10s]  yes, sir
+[2030.10s - 2036.58s]  Burbank area traffic, RISENY 175, regional jet is at 9 mile final, Burbank
+[2037.14s - 2053.14s]  Medivac, uh, 7373, Alpha, yeah, we had, uh, aircraft east of the, east of Runway 8, westbound, they're at 2900, so they were in the way, and then there's, uh, Embraer jet on final, uh, they're on, um, 10 mile final for Runway 8
+[2054.02s - 2056.18s]  okay, thanks, we'll be in touch with them, 7373, Alpha
+[2057.70s - 2062.98s]  Burbank area traffic, RISENY 175, regional jet is at 4 mile final, Runway 8, Burbank
+[2063.94s - 2069.70s]  Burbank area traffic, RISENY 175, regional jet is at 3 mile final, Runway 8, Burbank
+[2070.82s - 2087.86s]  Medivac, uh, 7373, Alpha, I can't give you your release for at least another, uh, 10 minutes due to airway traffic, um, yeah, I, I'm sorry, the best I can probably do is if you set yourself up for Runway 15, we might be able to get you out
+[2088.90s - 2092.26s]  Burbank area traffic, RISENY 175, regional jet is clear of runway
+[2092.98s - 2095.06s]  RISENY 2259, verify canceling IFR
+[2096.10s - 2100.58s]  RISENY 2259, canceling IFR as received, thank you, Medivac, 7373, Alpha, you copy that?
+[2101.38s - 2105.06s]  Yeah, we did copy, what if we just, uh, departed, uh, VFR?
+[2105.70s - 2107.86s]  Okay, so you want to depart VFR to the southwest?
+[2108.82s - 2110.82s]  I'd actually depart to the north
+[2111.54s - 2113.22s]  You're gonna go off Runway 8 still?
+[2113.94s - 2114.74s]  Affirmative
+[2115.54s - 2118.34s]  Alright, stand by, let me coordinate with, uh, controller, stand by
+[2119.30s - 2120.26s]  7373, Alpha
+[2120.98s - 2122.10s]  Burbank area traffic
+[2122.90s - 2142.98s]  Medivac, uh, 7373, Alpha, and, yeah, you can depart VFR now, uh, just be advised, there's an Airbus on a 12 mile final for Runway 8, so I need you to get you, I need you to get going now, so, uh, maintain VFR at or below 4,500, at or below 4,500 in the
+[2143.70s - 2151.78s]  Okay, at or below 4,500, we're on the roll now, and, uh, departure frequency is the same, 124.6 from Medivac, 7373, Alpha
+[2152.82s - 2157.38s]  And, uh, Burbank, uh, I'm not sure if that's power or, uh, traffic
+[2158.26s - 2161.30s]  Burbank traffic, police 1-8-3, departing for the police transit
+[2162.18s - 2164.74s]  Burbank traffic, Medivac helicopter, reach Med 2
+[2165.38s - 2168.98s]  Uh, uh, thanks for showing me how to get out of your way, Burbank traffic
+[2170.50s - 2178.18s]  Burbank traffic, Avalo 1-9-3, we're at Bravo 3, we are pushing, got cleared by Burbank officer, we're gonna be pushing, occupying Runway 1-5
+[2178.66s - 2183.94s]  Burbank traffic, American 9-8-E, is the Airbus 3-19, 5 mile final, Runway 8, Burbank
+[2184.82s - 2185.86s]  2-8-2, we've got 5
+[2186.98s - 2191.22s]  Burbank traffic, uh, American 9-8-E, 3 mile final, Runway 8, Burbank
+[2192.26s - 2200.42s]  Burbank traffic, Avalo 1-9-3, we are at B and Bravo 3, and we are well clear of Runway 8, uh, so Avalo 1-9-3, Burbank traffic
+[2201.38s - 2206.90s]  Burbank traffic, Airplane 1921M, over Vanna, is inbound Runway 8, uh, Burbank
+[2208.34s - 2209.38s]  Burbank, roger, 8
+[2210.34s - 2216.82s]  Burbank traffic, American, uh, 9-8-E, is, uh, clearing Runway 8, uh, Burbank
+[2217.78s - 2220.66s]  American 9-8-E, this is SoCal approach, verify canceling I-4
+[2220.98s - 2223.70s]  Yeah, we're just gonna best call you, like, cancel I-4, American 9-8-E
+[2224.18s - 2226.66s]  American 9-8-E, cancelation of I-4 is received, thank you
+[2226.74s - 2227.22s]  Thanks
+[2228.26s - 2238.10s]  Burbank traffic, Avalo 1-9-3, we're gonna start our taxi, we're gonna cross Runway 1-5, take Charlie, and go to Charlie, Charlie 6, and hold short of Runway 8 at Charlie
+[2238.18s - 2241.38s]  Charlie 6, for landing traffic, Burbank traffic
+[2242.74s - 2244.90s]  Avalo, uh, rise 22-15
+[2245.70s - 2246.58s]  Roger, thank you
+[2247.62s - 2252.18s]  Burbank traffic, Ampli, 1941M, two mile final, Runway 8, Burbank
+[2253.30s - 2257.70s]  Burbank traffic, Ampli, 1941M, short final, Runway 8, Burbank
+[2259.14s - 2260.58s]  American, rise 22-15
+[2262.34s - 2265.54s]  Uh, we already parked, we're parking down at the end at Alpha 8, so you're good
+[2266.34s - 2267.86s]  Thanks, guys, thank you, see you soon
+[2268.82s - 2278.82s]  Burbank traffic, Avalo 1-9-3, we're gonna be crossing Runway 8 at Charlie 6, continue on to Bravo, and then go down to Bravo 2, Burbank traffic
+[2280.82s - 2289.94s]  SoCal, Avalo 1-9-3, we're on Bravo, we're going single engine right now, what kind of delay can we expect at the end for a one-flight departure, SoCal?
+[2290.82s - 2292.66s]  Avalo 1-9-3, standby, let me coordinate
+[2293.62s - 2311.22s]  Avalo 1-9-3, uh, right now there's, uh, no delay, uh, there is a, uh, uh, Beechcraft 99 on a, uh, 12-mile final, but they're already VFR, but they are out there, they're on a 12-mile final, 12-mile final for Runway 8, uh, so when do you think you can be airborne?
+[2312.50s - 2314.34s]  Less than five minutes for Avalo 1-9-3
+[2315.22s - 2319.78s]  Avalo 1-9-3, roger, okay, expect no delay, just give me a call when you're number one and holding short
+[2320.50s - 2320.98s]  Roger
+[2321.94s - 2323.94s]  SoCal, United 21-0-7
+[2324.98s - 2329.22s]  United, uh, what was it, 20, 21-0-7?
+[2329.62s - 2338.66s]  Yeah, 2-1-0-7, we're sitting on the ground at Burbank, just curious, are you giving the clearances out of here, or, uh, are we expecting to get our pre-departure clearance as normal?
+[2339.62s - 2353.94s]  Uh, for your clearance, you're going to have to call the 1-800 number, uh, it is 1-800-448-3724, extension 1
+[2355.30s - 2357.30s]  Okay, copy all, we'll call that, thank you
+[2358.34s - 2366.98s]  Burbank traffic, Avalo 1-9-3, we're crossing Runway 15 at Bravo 2 to go to Alpha to hold short Runway 15, number one for departure, Burbank traffic
+[2366.98s - 2396.02s]  Burbank airport traffic, Avalo 1-9-3, hold for release, it's going to be probably about, uh, 3 to 5 minutes, there's a, uh, I'm just worried about that Beechcraft 99 for Runway 8, so once I can verify that he's no factor, you can expect your clearance
+[2397.22s - 2405.30s]  Avalo 1-9-3, Amtlight 1947, I know you're on short final, but, uh, let me know when you are off of Runway 8
+[2406.42s - 2411.46s]  Roger, Amtlight 1947, let you know off Runway 8, Amtlight 9-3-7
+[2413.14s - 2414.42s]  Burbank traffic, 6-
+[2415.14s - 2428.02s]  Burbank traffic, Amtlight 1947, ABE-99, uh, 2-mile final on Runway 8, traffic, this is Bravo to the north side, Amtlight 1947, Burbank traffic
+[2428.98s - 2448.98s]  Avalo 1-9-3, um, you know, I hate to do this to you, but, uh, I just don't feel comfortable because I don't have eyes out there, um, after that first Amtlight, there's going to be another Amtlight, they're on a, uh, 9-mile final for Runway 8, and then there's a southwest, um, also for Runway 8 right behind them, so it's going to be probably about
+[2449.94s - 2452.18s]  No worries, safety first, Avalo 1-9-3
+[2453.06s - 2460.74s]  SoCalPolice100, uh, we're in the Burbank airspace, is there something we can help you with, uh, eyes from up here and let you know if they're clear of the runway?
+[2461.46s - 2469.06s]  And, uh, I don't know who asked that question, but, uh, we have ground radar, so I, I kind of can see when they're leaving the runway, I just wanted to make sure
+[2469.62s - 2470.26s]  Roger
+[2470.98s - 2478.18s]  Burbank traffic, Amtlight 1948, clear Runway 8 at Bravo, taxi to the...
+[2478.98s - 2485.46s]  Burbank traffic, Amtlight 1943, over VannEye, 3,000 feet, descending for Runway 8
+[2486.50s - 2491.70s]  Burbank traffic, Alaska 11-0-7, we're ready to push and...
+[2496.74s - 2501.46s]  Yeah, you can go, we're going to be here for two or three more arrivals, so now's a good time for you to do it
+[2501.86s - 2502.42s]  OK
+[2502.42s - 2506.98s]  We appreciate it, we'll go ahead and push, uh, just as you did in Fox one...
+[2507.54s - 2512.26s]  Roger, and if you're not familiar, the best way to go is, uh, Charlie, Charlie 6, then cross 8 at Charlie 6,
+[2512.26s - 2516.10s]  then take Bravo to Bravo 2, and turn right at Bravo 2 to cross 1-5
+[2516.90s - 2519.38s]  Awesome, we appreciate the help, uh, 11-0-7
+[2520.42s - 2524.02s]  Burbank traffic, Amtlight 1943, short final, Runway 8, Landing
+[2524.90s - 2533.14s]  Burbank tower, Southwest 21-33, is on final, just passing over Runway 8, on final, Runway 8, just passing over VannEye
+[2534.10s - 2540.82s]  Aloha, 193, just for your planning, there's an Amtlight, and a Southwest, and then an Alaska on Runway 8
+[2540.82s - 2548.02s]  Uh, after the Alaska, you can expect your release, we already told the controller to give you a gap, so you can be after Alaska
+[2548.02s - 2551.38s]  So just for your planning, it's going to be probably about another seven minutes
+[2552.26s - 2557.46s]  Roger, Ameriplane on, uh, inside and Southwest, and so appreciate your help with that, Aloha, 193
+[2558.18s - 2559.38s]  Yeah
+[2560.34s - 2561.30s]  Burbank
+[2562.10s - 2565.86s]  Alright, Burbank traffic, Southwest 21-33, four miles out, Runway 3
+[2566.74s - 2572.90s]  Uh, Southwest 21-33, three miles final, Runway 8
+[2573.78s - 2577.78s]  Burbank traffic, Southwest 21-33, uh, two miles final, Runway 8
+[2578.58s - 2579.38s]  Standby
+[2579.38s - 2587.22s]  Burbank traffic, make sure, uh, at 1-12, just cross in there to Southwest on short final for Runway 8
+[2587.78s - 2591.78s]  Roger, we'll wait for him to, uh, to land, and then we'll, we'll cross after him, be careful, sir
+[2592.74s - 2596.10s]  Burbank traffic, Southwest 21-33, one mile final, Runway 8
+[2596.98s - 2600.10s]  Helicopter 103, Charlie Gulf, I believe, over the 5
+[2601.46s - 2602.26s]  That's affirmative
+[2603.46s - 2607.70s]  Yes, sir, uh, right now we're all talking to SoCal on 124.6
+[2608.82s - 2609.46s]  Okay, thank you
+[2610.42s - 2612.26s]  And he's requesting you to give him a call
+[2613.46s - 2614.18s]  I'll assist you now
+[2614.74s - 2622.18s]  And, uh, Burbank traffic, make sure at 1-12, we're to cross Runway 8 at Charlie 6, Southwest is, uh, land, uh, Charlie 7
+[2622.82s - 2626.82s]  Hey, SoCal, Southwest 23, uh, 21-33 on the ground, Burbank, that's what I'm looking for
+[2627.38s - 2630.18s]  Southwest 21-33, completion of I-4-G-C, thanks for that
+[2630.18s - 2630.66s]  Yep
+[2632.42s - 2634.42s]  Southwest, you guys are parking down at the alpha gate
+[2635.38s - 2635.94s]  Yup, up
+[2636.18s - 2636.74s]  Up, up
+[2638.74s - 2646.66s]  And make sure that's gonna, uh, is clear of Runway 8 at Delta 7, we're gonna taxi to Delta, uh, Delta 7
+[2647.62s - 2654.34s]  Southwest, uh, 21-33 is, uh, clearing the active, taxi gate alpha 5, Burbank
+[2655.54s - 2658.42s]  Burbank traffic, Southwest 21-33, clear of Runway 8, uh, Alpha
+[2659.06s - 2665.38s]  Burbank traffic, Southwest 21-33, clear of Runway 8, Burbank traffic
+[2666.74s - 2669.86s]  Burbank traffic, Amtlight 19-46, clear of Runway 8, Alpha
+[2671.54s - 2676.02s]  Burbank traffic, Alaska 256, over Vanna, straight into Runway 8, Burbank
+[2677.22s - 2686.98s]  Burbank traffic, Alaska 11-07, we are going to taxi to the left, crossing Runway 15 onto Charlie, holding short Runway 8 on Charlie 6, Burbank traffic
+[2687.86s - 2693.70s]  Burbank traffic, welcome to A256, Juliet, in the downwind, right downwind for Runway 8
+[2693.78s - 2701.78s]  We have the Alaska on the final, about 5 miles inside, we'll be number 2 for a full stop landing, Burbank traffic
+[2702.82s - 2706.34s]  Alright, thanks for that, and Alaska 256, 5 miles final, Runway 8, Burbank
+[2708.50s - 2715.70s]  That's okay, we're, uh, we're expecting, uh, Runway 15, looks like we're number 2 in line for, uh, full stop
+[2716.66s - 2723.14s]  Alright, Burbank traffic, horizon, uh, 17, Alaska 256, we're short final, Runway 8, Burbank
+[2724.18s - 2732.10s]  Burbank traffic, picture of 112, uh, we are on the final, about 5 miles inside, we'll be number 2 for a full stop landing, Burbank traffic
+[2732.10s - 2737.62s]  Burbank traffic, welcome to A256, Juliet, in the downwind, right downwind for Runway 8
+[2737.62s - 2745.78s]  We have the Alaska on the final, about 5 miles inside, we'll be number 2 for a full stop landing, Burbank traffic
+[2746.74s - 2750.34s]  Alright, thanks for that, and Alaska 256, 5 miles final, Runway 8, Burbank
+[2750.34s - 2759.94s]  That's okay, we're, uh, we're expecting, uh, Runway 15, looks like we're number 2 in line for, uh, full stop landing
+[2759.94s - 2767.30s]  Alright, Burbank traffic, horizon, uh, 17, Alaska 256, we're short final, Runway 8, Burbank
+[2767.30s - 2774.66s]  Burbank traffic, picture of 112, uh, we are on the final, about 5 miles inside, we'll be number 2 for a full stop landing, Burbank
+[2775.14s - 2780.42s]  Base flight 112, uh, hopefully, uh, you're gonna be number 2 behind Avelo, Avelo's on the east side
+[2780.42s - 2784.26s]  Thanks for the hold, uh, never heard this address before, sorry
+[2784.26s - 2789.62s]  Avelo 193, uh, it'll be about 1 minute, so get ready, Alaska's on short final
+[2789.62s - 2791.62s]  Roger, 193
+[2791.62s - 2803.54s]  Burbank traffic, Alcantara 256, Juliet, about a 3 mile final for Runway 8, we're gonna remain south-west all time on number 15
+[2803.94s - 2805.94s]  Talk to you later
+[2805.94s - 2814.90s]  Burbank traffic, Alaska 266, making the right turn to the ramp, south above Runway 8, and, uh, we'll call it for the cancel our IFR
+[2814.90s - 2817.70s]  Alaska 256, verify, cancel your IFR
+[2817.70s - 2819.70s]  Affirmative
+[2819.70s - 2828.74s]  Uh, Burbank traffic, Avelo 195, Boeing 737, we are number 1 for Departure 15, we are lining up on the Runway 15
+[2828.74s - 2832.74s]  Alaska 256, verify, cancel your IFR
+[2832.98s - 2834.98s]  Affirmative, and we are clear of the active Runway 8
+[2834.98s - 2836.98s]  Roger, thank you
+[2836.98s - 2846.18s]  Burbank traffic, Alaska 8256, Juliet, we're off to Departure 15, we are ready to cross Runway 15
+[2846.18s - 2850.98s]  Okay, Avelo 193, we are ready to cross Runway 15
+[2850.98s - 2852.98s]  Avelo 193, standby, let me coordinate
+[2852.98s - 2862.18s]  Burbank traffic, Alaska 1107, Charlie 6, gonna cross Runway 8 to Bravo, we'll hold short of Runway 15
+[2862.74s - 2867.22s]  Down at Bravo 2 for Alaska 1107
+[2867.22s - 2875.22s]  Avelo 193, ready for Departure, clearance to avoid in 1 minute, avoid time 0136, time now 0134 and 3 quarters
+[2875.22s - 2878.18s]  Okay, taking off right now, avoid in 1 minute, Avelo 193
+[2878.18s - 2884.42s]  Burbank traffic, Avelo 193, we are taking off Runway 15, we're off for Departure, traffic
+[2884.66s - 2892.66s]  Big Stripe 112, for release, it's going to be probably about 4 minutes, there's a Southwest on the 8 mile final for Runway 8
+[2892.66s - 2894.66s]  Affirmative, we'll hold short of Runway 8
+[2894.66s - 2900.66s]  Burbank, Southwest 1196, we're on a 6.5 mile final for 8
+[2900.66s - 2912.66s]  Alaska 1107, if you want to cross Runway 15 at this time, you can, it's going to be probably about 4 minutes until I get Big Stripe going, so you can cross Runway 15 if you want
+[2912.90s - 2918.90s]  1107, we'll go ahead and do that, appreciate the help, and we'll be ready to go as soon as you get them out for 1107
+[2918.90s - 2924.90s]  Sounds good, yeah, there's a Southwest on short final for Runway 8, then Big Stripe will go, and then you'll be next
+[2924.90s - 2926.90s]  1107, we'll be ready, thank you
+[2926.90s - 2936.90s]  Burbank traffic, Alaska 1107, crossing Runway 15, Bravo 2, taxi via Alpha to hold short of Runway 15, Burbank traffic
+[2936.90s - 2940.90s]  Burbank traffic, Southwest 1196, 4 mile final, Runway 8
+[2941.14s - 2945.14s]  Burbank traffic, Southwest 1196, is on a 2 mile final for 8
+[2945.14s - 2953.14s]  Burbank traffic, Southwest 1196, taking a right onto Rambin
+[2953.14s - 2957.14s]  Southwest 1196, this is SoCal Approach, verify canceling IFR
+[2957.14s - 2959.14s]  Canceling IFR, Southwest 1196
+[2959.14s - 2969.14s]  Thank you, Big Stripe 112, you are released for departure, clearance void at 0145, time now 0140 and a half
+[2969.38s - 2977.38s]  Clearance void 0145, time now 0140, and cleared for departure on 15, Big Stripe 112
+[2977.38s - 2983.38s]  And Big Stripe 112, just a huge caution, there is a TV helicopter just southwest of the field at 1800 feet
+[2983.38s - 2987.38s]  Thank you, roger, we'll try to see it if they're moving east or west
+[2987.38s - 2993.38s]  They're kind of just stationary, they're just hovering like west of the departure end
+[2993.38s - 2995.38s]  Roger, thank you
+[2995.62s - 3001.62s]  And Burbank traffic, Big Stripe 112 is on Runway 1
+[3001.62s - 3011.62s]  Alaska 1107, you are released for departure, clearance void at 0147, time now 0142 and a half
+[3011.62s - 3019.62s]  Okay, cleared for release, and void if not off by 0147 and 0142 and a half for Alaska 1107
+[3019.86s - 3027.86s]  Alaska 1107, and just be advised, there is a TV helicopter just southwest of the field at 1800 feet
+[3027.86s - 3029.86s]  1107, thank you, we'll use caution
+[3029.86s - 3037.86s]  Burbank traffic, Alaska 1107 is taking off on Runway 15 making a right turn heading 210, Burbank traffic
+[3037.86s - 3045.86s]  Burbank traffic, this is Big Stripe 108, Embraer 145, we're pushing back to Charlie
+[3046.10s - 3048.10s]  We're pushing back to Charlie
+[3050.10s - 3058.10s]  Burbank area traffic, Alaska 1107, Boeing 737, upwind Runway 15, right turn 210, Burbank traffic
+[3058.10s - 3066.10s]  Burbank traffic, direct regional jet November 9, straight at the SX ramp, taxiing to 15
+[3066.10s - 3074.10s]  Burbank traffic, United 2107, we're at gate B2, we'll be pushing back, Burbank traffic
+[3074.34s - 3078.34s]  And just be aware, that's going to block Runway 15 for departure
+[3078.34s - 3088.34s]  Burbank traffic, regional jet November 937, Juliet X-ray, crossing Runway 8 at Charlie 6, continuing to 15
+[3088.34s - 3096.34s]  Burbank traffic, regional jet November 937, Juliet X-ray, clear Runway 8, taxiing to Runway 15 via B
+[3096.34s - 3102.34s]  SoCal Big Stripe 108 is going to be ready to go
+[3102.58s - 3104.58s]  Skyhawk calling SoCal, say again
+[3104.58s - 3109.58s]  Skyhawk 108, we're going to be ready to go off of Runway 15
+[3109.58s - 3111.58s]  Call sign?
+[3111.58s - 3115.58s]  Big Stripe 108, November 937, Juliet X-ray
+[3115.58s - 3119.58s]  937, Juliet X-ray, what's your type of aircraft?
+[3119.58s - 3122.58s]  Sir, an Embraer 140, approaching Runway 5
+[3122.58s - 3125.58s]  Ok, this is Big Stripe I'm talking to then
+[3125.58s - 3128.58s]  Affirmative, Big Stripe 108
+[3128.58s - 3130.58s]  Standby
+[3130.82s - 3135.82s]  If not off by 0156 and now 0151
+[3135.82s - 3140.82s]  Alright, 0156 and void by 015
+[3140.82s - 3148.82s]  SoCal, Southwest 823, clearance to request to Sacramento
+[3148.82s - 3152.82s]  Southwest 823, got a phone number for you to call for your clearance
+[3152.82s - 3153.82s]  Alright, go ahead with that
+[3154.06s - 3161.06s]  1-800-448-3724, and it's going to be extension 1
+[3162.06s - 3167.06s]  Ok, we'll give the call for Southwest 823
+[3168.06s - 3180.06s]  Burbank traffic, United 2107, being gave Bravo 2, we'll be taxiing forward for Charlie holding short to Runway 15, Burbank traffic
+[3180.30s - 3183.30s]  SoCal, Big Stripe 108, can I get those times again?
+[3183.30s - 3186.30s]  The clearance void if not off in 3 minutes, are you going to be able to make that?
+[3186.30s - 3191.30s]  Ok, affirmative, clearance void if not off in 3 minutes for Big Stripe 108
+[3191.30s - 3199.30s]  Burbank traffic, Big Stripe, Regional Jet 937, Juliet X-ray, taxiing to Runway 15
+[3199.30s - 3206.30s]  And Big Stripe, United 2107, we'll be well clear of 15 off of Charlie
+[3206.30s - 3208.30s]  Thank you very much
+[3208.54s - 3214.54s]  And Burbank traffic, Big Stripe, 108, Embraer 145, we're on a roll, Runway 15
+[3215.54s - 3225.54s]  Burbank traffic, United 2107, we'll be crossing Runway 15 for Charlie to Charlie 6, holding short Runway 8, Burbank traffic
+[3226.54s - 3234.54s]  Burbank traffic, Big Stripe, 108, Embraer 145, we're on a right turn to 10, leaving 2000 for 4000
+[3234.78s - 3242.78s]  Burbank traffic, Police 101 mile north of the 5134 interchange, 2000C, we'll be working east side on patrol, Burbank traffic
+[3242.78s - 3249.78s]  Burbank traffic, United 2107, crossing Runway 15 at Charlie, Burbank traffic
+[3252.78s - 3260.78s]  Burbank traffic, United 2107, we'll be crossing Runway 8 at Charlie 6, Burbank traffic crossing Runway 8
+[3261.02s - 3272.02s]  Burbank traffic, FedEx 1213, heavy is pushing back from the FedEx ramp onto Charlie, Burbank
+[3273.02s - 3284.02s]  Burbank traffic, United 2107, we'll be backtaxing Runway 15 starting at Delta all the way to the end, backtaxing 15, Burbank traffic
+[3285.02s - 3289.02s]  SoCal, Southwest 1197 going to Vegas, do we pick over and clearance with you?
+[3289.26s - 3294.26s]  Southwest 1197, you can pick that up on a phone number, you ready to copy?
+[3294.26s - 3295.26s]  Yeah, shoot
+[3296.26s - 3303.26s]  1-800-448-3724, extension 1
+[3304.26s - 3305.26s]  Copy
+[3305.26s - 3313.26s]  Burbank traffic, Burbank traffic, Gulfstream 76, Tango Hotel, 6 mile final, Runway 8, Burbank
+[3313.50s - 3319.50s]  Burbank traffic, United 2107, exiting Runway 15, Alpha 2
+[3320.50s - 3325.50s]  Burbank traffic, Gulfstream 76, Tango Hotel, 4 mile final, Runway 8, Burbank
+[3326.50s - 3331.50s]  Burbank traffic, Gulfstream 76, Tango Hotel, 3 mile final, 3 mile final, Runway 8, Burbank
+[3331.74s - 3344.74s]  SoCal, United 2107, just off of our 0200 time, do you have a time for us to be off the ground?
+[3345.74s - 3350.74s]  Burbank, Gulfstream 76, Tango Hotel, half a mile final, 2 mile final, Runway 8, Burbank
+[3351.74s - 3355.74s]  United 2107, there is traffic on a half mile final, do you have that traffic in sight?
+[3356.74s - 3358.74s]  We do for United 2107
+[3358.98s - 3363.98s]  United 2107, roger, and you are released for departure, are you ready to go at this time?
+[3364.98s - 3366.98s]  Will be in about 30 seconds, United 2107
+[3367.98s - 3372.98s]  Departure clearance void, if not off by 0206, and 0202
+[3373.98s - 3375.98s]  Alright, 0206, United 2107
+[3376.98s - 3380.98s]  Burbank traffic, Gulfstream 76, Tango Hotel, 3 mile final, 3 mile final, Runway 8, Burbank
+[3381.22s - 3394.22s]  SoCal, United 2107, just off of our 0200 time, do you have a time for us to be off the ground?
+[3395.22s - 3400.22s]  Burbank, Gulfstream 76, Tango Hotel, half a mile final, 2 mile final, Runway 8, Burbank
+[3401.22s - 3405.22s]  United 2107, there is traffic on a half mile final, do you have that traffic in sight?
+[3406.22s - 3408.22s]  We do for United 2107
+[3408.46s - 3413.46s]  United 2107, roger, and you are released for departure, are you ready to go at this time?
+[3414.46s - 3416.46s]  Will be in about 30 seconds, United 2107
+[3417.46s - 3422.46s]  Departure clearance void, if not off by 0206, and 0202
+[3423.46s - 3425.46s]  Alright, 0206, United 2107
+[3426.46s - 3433.46s]  And United 2107, just be advised, there is a TV helicopter just at the end of the runway, there are 2,000 feet
+[3434.46s - 3435.46s]  United 2107, roger
+[3435.70s - 3440.70s]  Burbank traffic, Gulfstream 76, Tango Hotel, clear of the...
+[3441.70s - 3445.70s]  SoCal, United 2107, we are lined up, Runway 15, ready to go
+[3446.70s - 3449.70s]  And Gulfstream 76, holding short of...
+[3450.70s - 3457.70s]  Burbank traffic, United 2107 is lined up, Runway 15 leads parting to the southwest, Burbank traffic
+[3458.70s - 3463.70s]  Burbank traffic, Police 100 are going to be landing Runway 15, remaining north of Bravo 3
+[3463.94s - 3468.94s]  The Gulfstream can cross Runway 15, will be remaining well north
+[3469.94s - 3473.94s]  And Burbank traffic, Gulfstream 76...
+[3474.94s - 3482.94s]  Burbank traffic, FedEx 1213 heavy, taxiing from Charlie, Charlie 7
+[3485.94s - 3489.94s]  Burbank traffic, Police 100 is clear of Runway 15
+[3490.18s - 3497.18s]  Burbank traffic, FedEx 1213 heavy is clear, Runway 08, turning right on Delta
+[3498.18s - 3499.18s]  Burbank
+[3500.18s - 3505.18s]  Delta 585, 7 mile, ILS, Runway 8, full stop
+[3506.18s - 3512.18s]  SoCal, FedEx 1213 heavy, we're holding short of Runway 15
+[3513.18s - 3516.18s]  Preparing to back taxi 15 for departure
+[3517.18s - 3518.18s]  Burbank
+[3518.42s - 3524.42s]  Burbank traffic, FedEx 1213 heavy is back taxiing on Runway 15, Burbank
+[3525.42s - 3531.42s]  Southwest 585 is on a 4 mile final, Runway 8, Burbank
+[3532.42s - 3536.42s]  Burbank, Southwest 585, 2 mile final, Runway 8, Burbank
+[3537.42s - 3543.42s]  Burbank traffic, FedEx 1213 heavy is vacating Runway 15 at Alpha 2, Burbank
+[3543.66s - 3549.66s]  Burbank traffic, Southwest 585, 1 mile final, Runway 8, Burbank
+[3550.66s - 3552.66s]  Southwest 585, verify landing assured
+[3553.66s - 3556.66s]  Southwest 585 is on the ground, landing assured, clearing the runway
+[3557.66s - 3558.66s]  Burbank, thank you
+[3559.66s - 3565.66s]  SoCal, FedEx 1213 heavy, we're about to line up on Runway 15
+[3566.66s - 3570.66s]  Burbank, Southwest 585, 6 mile final for Runway 8, Burbank
+[3570.90s - 3577.90s]  SoCal departure, FedEx 1213 heavy is holding short Runway 15 for release
+[3578.90s - 3583.90s]  Burbank traffic, Southwest 4855, we're on a 6 and a half mile final for Runway 8
+[3584.90s - 3586.90s]  FedEx 1213 heavy, stand by
+[3587.90s - 3588.90s]  FedEx 1213 heavy, stand by
+[3589.90s - 3594.90s]  Burbank traffic, keep your center of 7, we'll be pushing back onto Charlie, Burbank
+[3595.90s - 3598.90s]  Burbank traffic, Southwest 4855, 5 mile final, Runway 8
+[3599.14s - 3604.14s]  Burbank traffic, Southwest 4855, 2 and a half mile final, Runway 8
+[3605.14s - 3608.14s]  Burbank traffic, Southwest 4855, 1 mile final, Runway 8
+[3609.14s - 3613.14s]  FedEx 1213 heavy, you have the Southwest 737 touchdown, Runway 8
+[3614.14s - 3617.14s]  And we can't see him from here, we'll watch for the rollout
+[3618.14s - 3621.14s]  Burbank traffic, Rise 2303 is again
+[3622.14s - 3626.14s]  Affirmative, we're just waiting for the Southwest to roll out for FedEx
+[3626.38s - 3629.38s]  All right, Rise 2303, we're holding
+[3630.38s - 3631.38s]  Thanks
+[3632.38s - 3636.38s]  Burbank traffic, Southwest 4855 is departing at Alpha 2, clear for Runway 8
+[3637.38s - 3642.38s]  Departure, clearance void if not off by 0219, time now is 0215
+[3643.38s - 3649.38s]  And SoCal, that was for FedEx, clear for departure, void if not off by 0219
+[3650.38s - 3652.38s]  FedEx 1213 heavy, affirmative
+[3652.62s - 3654.62s]  FedEx 1213 heavy, copy
+[3654.62s - 3659.62s]  Burbank traffic, FedEx 1213 heavy is taking Runway 15 for departure
+[3659.62s - 3663.62s]  To the South, Southeast, Southwest, Burbank
+[3665.62s - 3671.62s]  Burbank traffic, FedEx 1213 heavy is departing Runway 15, Burbank
+[3672.62s - 3678.62s]  Burbank traffic, QPS 907, on Charlie, taxiing Charlie 7, we're planning on crossing the mountain
+[3679.62s - 3680.62s]  Copy
+[3680.86s - 3686.86s]  Burbank FedEx, departing to Southwest, going to departure, Burbank
+[3687.86s - 3692.86s]  Burbank traffic, QPS 907, crossing Runway 8 at Charlie 7, Burbank traffic
+[3693.86s - 3699.86s]  Burbank traffic, helicopter 82563 to land on about 2 mile base for Runway 8
+[3701.86s - 3702.86s]  Burbank traffic
+[3703.86s - 3706.86s]  Burbank area traffic, Horizon 175
+[3707.10s - 3716.10s]  Burbank traffic, QPS 907 heavy, right on Delta, gonna be holding short 15, planning on back taxi for 15, Burbank traffic
+[3716.10s - 3717.10s]  Clear Runway 8
+[3718.10s - 3724.10s]  Burbank traffic, QPS 907 heavy, entering 15 for back taxi for 15, Burbank
+[3725.10s - 3735.10s]  Burbank helicopter 82563 turning final for Runway 8, full stop, taxi by Delta 8 to Atlantic
+[3735.34s - 3736.34s]  Burbank
+[3738.34s - 3746.34s]  Burbank traffic, Southwest 823, we've got gate Alpha 5, we're gonna be pushing back onto
+[3747.34s - 3753.34s]  Burbank traffic, QPS 907 heavy, clearing 15, Alpha 2 Alpha, taxi 15, Burbank
+[3754.34s - 3760.34s]  Burbank traffic, Southwest 823, pushing back off of gate Alpha 5, onto taxiway Alpha, Burbank
+[3760.58s - 3765.58s]  Burbank helicopter 82563 turning final for Runway 8
+[3766.58s - 3769.58s]  SoCal, F-594, 18.7, running short
+[3770.58s - 3776.58s]  F-594, hold, there is traffic that is taxiing back up onto the runway at the south end, standby
+[3777.58s - 3779.58s]  Holding short, F-594
+[3780.58s - 3786.58s]  SoCal departure, QPS 907 heavy, we're short Runway 15, ready for departure
+[3786.82s - 3790.82s]  QPS 907 heavy, roger, hold short Runway 15, you're number 2 for departure
+[3791.82s - 3793.82s]  Holding short number 2, QPS 907 heavy, thank you
+[3794.82s - 3801.82s]  Burbank area traffic, Resney 175 regional jet, down on taxi lane Bravo next to the terminal
+[3802.82s - 3805.82s]  We're gonna be crossing Runway 15 over to Charlie
+[3807.82s - 3813.82s]  Burbank traffic, Southwest 823, just pushed off the gate Alpha 5 on the Alpha taxi lane
+[3814.06s - 3827.06s]  We're gonna be crossing Runway 15 and taxi continue over to Charlie and then cross Runway 8 to Burbank traffic
+[3828.06s - 3834.06s]  Burbank area traffic, Resney 175 regional jet is clear of Runway 15
+[3835.06s - 3840.06s]  We're gonna be crossing Runway 8 at Charlie 6, continuing up Bravo
+[3840.30s - 3847.30s]  Burbank traffic, Southwest 1197 Alpha 3, we'll be pushing on to taxi lane Alpha behind company
+[3848.30s - 3857.30s]  F-594, you're released for departure, clearance void if not off by 0228, time now 0224
+[3858.30s - 3861.30s]  I understand, we'll release void time 0228, F-594
+[3862.30s - 3866.30s]  Burbank traffic, F-594 taking Runway 15 for departure
+[3866.54s - 3871.54s]  Burbank traffic, Southwest 823 is holding short of Runway 15, Alpha taxi to Burbank traffic
+[3872.54s - 3876.54s]  Burbank traffic, F-594 on the runway 15
+[3877.54s - 3888.54s]  Burbank traffic, Southwest 823 is on the Alpha taxi lane, cross Runway 15 and taxi Charlie 6 to cross Runway 8, Burbank traffic
+[3889.54s - 3895.54s]  Burbank traffic, Southwest 1197 taxiing Alpha and we'll hold short of Runway 15
+[3896.54s - 3906.54s]  Burbank traffic, Southwest 823 is clear of Runway 15 and now we're gonna cross Runway 8 at Charlie 6, Burbank traffic
+[3907.54s - 3918.54s]  Burbank area traffic, Resney 175 regional jet is at Bravo 2, crossing Runway 15 to Alpha 2 and then continuing up Alpha to Runway 15
+[3918.78s - 3928.78s]  Burbank traffic, Southwest 1197, we'll be crossing Runway 15 on Alpha and then we'll Charlie 6 to cross Runway 8, Southwest 1197
+[3929.78s - 3941.78s]  UPS 907 Heavy, you are released for departure, clearance void if not off by 0232, time now 0227, use caution, looks like the aircraft south of you has crossed the runway
+[3942.02s - 3949.02s]  UPS 907, we're released for departure, clearance void by 032 and we'll use caution for traffic, thank you
+[3950.02s - 3953.02s]  Entering Runway 15, regional jet is clear of Runway 15
+[3954.02s - 3963.02s]  Burbank traffic, Southwest 1197, we'll be crossing Runway 15 on the south end on Charlie and Charlie 6 to cross Runway 8, Burbank
+[3964.02s - 3970.02s]  Burbank traffic, UPS 907 Heavy, you are released for departure and we copy that, caution traffic
+[3970.26s - 3978.26s]  Burbank traffic, Southwest 1197, we're clear of Runway 15, we'll be making a right turn on Charlie 6 to cross 8, Burbank
+[3979.26s - 3981.26s]  Burbank traffic, UPS 907, taking off 15, Burbank
+[3982.26s - 3985.26s]  Burbank traffic, Southwest 1197, we're crossing Runway 8
+[3986.26s - 3992.26s]  Burbank traffic, Southwest 1197, we're clear of Runway 8, we'll be taxiing Bravo up to Bravo 2, Burbank
+[3993.26s - 3997.26s]  Burbank traffic, UPS 907, departing pattern to the southwest of Burbank traffic
+[3997.50s - 4003.50s]  Burbank traffic, SoCal Horizon 2303, holding short of Runway 15 for release
+[4004.50s - 4006.50s]  Horizon 2303, roger, stand by
+[4007.50s - 4008.50s]  Stand by
+[4009.50s - 4019.50s]  We've got a departure, sorry, SoCal for Southwest 823, we're ready to go here, hold short of Runway 15
+[4020.50s - 4022.50s]  Southwest 823, SoCal Approach, thank you
+[4023.50s - 4025.50s]  Horizon 2303, SoCal
+[4025.74s - 4027.74s]  2303, you're clear
+[4028.74s - 4033.74s]  Horizon 2303, you're released for departure, clearance avoid if not off by 1, or I'm sorry, clearance avoid if not off by
+[4034.74s - 4038.74s]  Horizon 2303, stand by, stand down 02, 31 and 1 quarter
+[4039.74s - 4042.74s]  Alright, we're rolling right now, cleared for release, Horizon 2303
+[4043.74s - 4048.74s]  Burbank traffic, Southwest 823, holding short of Runway 15, Burbank traffic, Bravo
+[4049.74s - 4054.74s]  Burbank traffic, Horizon 175, regional jet is taking Runway 15, sir, southwest
+[4055.74s - 4056.74s]  Burbank
+[4057.74s - 4067.74s]  We've got a departure, sorry, SoCal for Southwest 821, correction, 823, we're ready to go here, hold short of Runway 15
+[4068.74s - 4070.74s]  Southwest 823, SoCal Approach, thank you
+[4071.74s - 4073.74s]  Horizon 2303, SoCal
+[4074.74s - 4075.74s]  2303, you're clear
+[4076.74s - 4081.74s]  Horizon 2303, you're released for departure, clearance avoid if not off by 1, or I'm sorry, clearance avoid if not off by
+[4081.98s - 4086.98s]  Horizon 2303, stand by, stand down 02, 31 and 1 quarter
+[4087.98s - 4090.98s]  Alright, we're rolling right now, cleared for release, Horizon 2303
+[4091.98s - 4096.98s]  Burbank traffic, Southwest 823, holding short of Runway 15, Burbank traffic, Bravo
+[4097.98s - 4102.98s]  Burbank traffic, Horizon 175, regional jet is taking Runway 15, sir, southwest
+[4103.98s - 4104.98s]  Burbank
+[4105.98s - 4110.98s]  Burbank traffic, Southwest 1197, holding short of 15 at Bravo 2, Burbank
+[4111.98s - 4118.98s]  Burbank traffic, Southwest 1197, crossing 15 at Bravo 2, Alpha 2, Alpha to 15, Burbank
+[4119.98s - 4122.98s]  Burbank traffic, Southwest 823, holding short of Runway 15 at Bravo
+[4123.98s - 4127.98s]  Burbank traffic, Horizon 2303, departing to Southwest, good night you guys
+[4128.98s - 4132.98s]  Burbank traffic, Southwest 1197, clear 15, taxiing Alpha to 15
+[4133.98s - 4134.98s]  Southwest 823, SoCal
+[4135.98s - 4136.98s]  Go for Southwest 823
+[4137.22s - 4142.22s]  Southwest 823, you're released for departure, clearance avoid if not off by 0, 2, 3, 8
+[4143.22s - 4148.22s]  If not off by 0, 2, 3, 8, advise frequency promptly of attention, time now, 0, 2, 3, 4
+[4149.22s - 4158.22s]  Okay, cleared to Sacramento, avoid if not off by 0, 2, 3, 8, overtaking Runway Alpha, Southwest 823
+[4160.22s - 4165.22s]  Burbank traffic, Southwest 823 is taking Runway 15 for departure
+[4165.46s - 4167.46s]  Departure, Burbank traffic
+[4170.46s - 4173.46s]  SoCal, Southwest 1197, we're holding short of 15
+[4174.46s - 4176.46s]  Southwest 1197, SoCal approach, thank you
+[4177.46s - 4184.46s]  Burbank traffic, Southwest 823 is turning out to the west, Burbank traffic
+[4184.70s - 4185.70s]  Burbank traffic
+[4186.70s - 4193.70s]  SoCal, Southwest 823 is climbing out of 2700 for 4000 on the Rose Deep
+[4194.70s - 4196.70s]  Southwest 823, contact departure on 124.6
+[4197.70s - 4198.70s]  124.6
+[4199.70s - 4203.70s]  Southwest 1197, just be advised, we've got two IFR arrivals inbound
+[4204.70s - 4209.70s]  Second one's about 15 miles out, so it's going to be about 5 to 8 minutes
+[4210.70s - 4212.70s]  Southwest 1197, roger, holding short of 15
+[4212.94s - 4218.94s]  Burbank traffic, Biggest Stripe 111 on final, Runway 08, pass final
+[4220.94s - 4226.94s]  Burbank traffic, Alaska 1052, pushing off of Bravo 5 onto Alpha
+[4227.94s - 4235.94s]  Burbank traffic, Burbank traffic, Biggest Stripe 111 is over body for Runway 08, coming for land
+[4236.94s - 4241.94s]  Southwest 1197, Alaska 1052, you guys dismissed for clearance
+[4242.94s - 4243.94s]  Yeah, that's fine
+[4244.94s - 4246.94s]  We'll provide a taxi out after you guys depart
+[4247.94s - 4251.94s]  Biggest Stripe 111, 3 miles final, Runway 08, coming to land
+[4252.94s - 4261.94s]  Burbank traffic, Bigstripe 776, Embraer 145, we're about 12 miles final on the ILS for a full stop, Burbank traffic
+[4262.94s - 4268.94s]  Biggest Stripe 111, it's 2 miles and canceling our IFR please
+[4269.18s - 4273.18s]  Bigstripe 111, took out IFR, cancellation received, thank you
+[4274.18s - 4282.18s]  Burbank traffic, Biggest Stripe 111, it's 1 miles, landing Runway 08
+[4283.18s - 4288.18s]  Burbank traffic, Bigstripe 111, vacating Runway Delta 2, Burbank
+[4289.18s - 4298.18s]  Burbank traffic, Bigstripe 776, Embraer 145 on 5 miles final on the ILS, landing Runway 8 for a full stop, Burbank traffic
+[4299.18s - 4306.18s]  Burbank traffic, Bigstripe 111, cleared Runway 8, Delta 2, we're going to taxi on Delta, hold short 15, Burbank
+[4307.18s - 4312.18s]  Burbank traffic, Bigstripe 776, Embraer 145, 3 miles final, Runway 8, full stop, Burbank traffic
+[4313.18s - 4317.18s]  Burbank traffic, Bigstripe 111, holding short 15, Delta
+[4318.18s - 4322.18s]  Burbank traffic, Bigstripe 776, 1 mile final, Runway 8, full stop, Burbank traffic
+[4322.42s - 4329.42s]  Burbank traffic, Bigstripe 111, crossing Runway 15, taxi via IFR
+[4330.42s - 4332.42s]  Bigstripe 776, we cancel IFR
+[4333.42s - 4336.42s]  Bigstripe 776, SoCal, thanks IFR, cancellation received, goodnight
+[4337.42s - 4339.42s]  Have a goodnight, thanks for your help, goodnight, Bigstripe 776
+[4340.42s - 4342.42s]  Southwest 1197, SoCal
+[4343.42s - 4345.42s]  Southwest 1197, go ahead
+[4345.66s - 4357.66s]  Southwest 1197, you're released for departure, clearance void, if not off by 0249, or if not off by 0249, or advise this frequency promptly of attention, and now, 0246
+[4358.66s - 4363.66s]  Cleared for departure, void at 0249, we're taking the runway now, 1197, thank you
+[4364.66s - 4371.66s]  Burbank traffic, Bigstripe 776, taxiing, cleared Runway 8, taxiing Delta 2, Delta, holding short Runway 1 and 5
+[4371.90s - 4376.90s]  Burbank traffic, Southwest 1197, we're landing up 15, Burbank
+[4378.90s - 4380.90s]  Burbank, Bigstripe, crossing
+[4381.90s - 4385.90s]  Burbank traffic, Southwest 1197, departing 15 to Southwest
+[4387.90s - 4393.90s]  Burbank, Bigstripe 111, clear Runway 8, Delta, holding short Runway 1 and 5
+[4395.90s - 4400.90s]  Burbank traffic, Bigstripe 776, crossing Runway 15 at Delta
+[4401.14s - 4403.14s]  Test, test
+[4404.14s - 4413.14s]  Burbank traffic, Alaska 1052 is on Alpha, entering 15 at Alpha, backtaxing at Alpha 2, behind the crossing traffic
+[4414.14s - 4424.14s]  Burbank traffic, Bigstripe 776, clear of Runway 15, Delta 776, Delta, taxiing, holding short Runway 8, Bigstripe
+[4425.14s - 4429.14s]  Burbank traffic, Bigstripe 776, crossing Runway 8, Delta 7
+[4429.38s - 4432.38s]  Charlie to Park, Burbank
+[4434.38s - 4436.38s]  Test, test, there we go
+[4437.38s - 4445.38s]  Burbank traffic, Alaska 1052, clearing the Runway at Alpha 2, will be taxed via Alpha to the end of Runway 15
+[4446.38s - 4452.38s]  Burbank traffic, Bigstripe 776, clear of Runway 8, Charlie 7, taxing Charlie to Park, final call, Bigstripe
+[4452.62s - 4458.62s]  Burbank traffic, good evening, Global 2500, 215, 8 mile final, Runway 8
+[4459.62s - 4464.62s]  SoCal, Burbank, Alaska 1052 will be number 1 for departure, holding short Runway 5
+[4465.62s - 4472.62s]  Alaska 1052, SoCal Approach, thanks, just waiting for 1 eye for departure off of Van Nuys and a global about 5 mile final, Burbank
+[4472.62s - 4476.62s]  Once that Burbank arrival cancels, you can expect a release, probably in the next few minutes
+[4477.62s - 4478.62s]  Alaska 1052, roger
+[4478.86s - 4483.86s]  Burbank, Southwest 2594 is calling for release
+[4483.86s - 4486.86s]  Southwest 2594, you calling for your clearance?
+[4486.86s - 4493.86s]  No, I called them on the phone, but they said to call 187 for, I guess, release, Southwest 2594
+[4493.86s - 4499.86s]  Yeah, you're number 2, just let me know when you're closer to the departure end
+[4500.86s - 4501.86s]  Okay
+[4502.86s - 4508.86s]  Burbank traffic, Global 5500, 1500 feet, 3 mile final, Runway 8, Burbank
+[4509.86s - 4510.86s]  Burbank traffic, SoCal
+[4512.86s - 4518.86s]  Burbank traffic, Global 5500, 15, 8, 21, 8
+[4520.86s - 4521.86s]  Charlie 16, SoCal
+[4522.86s - 4523.86s]  Cancel eye for
+[4524.86s - 4526.86s]  Charlie 16, eye for cancellation, see you, thanks
+[4528.86s - 4529.86s]  Alaska 1052, SoCal
+[4529.86s - 4530.86s]  Go ahead, Alaska 1052
+[4531.86s - 4540.86s]  Alaska 1052, release for departure, clearance void if not off by 0259, if not off by 0259 advise the frequency promptly of intention, time now, 0255 and one quarter
+[4541.86s - 4548.86s]  Release for departure, void if not off by 0259, time now, 0255 and a half, 1052
+[4549.86s - 4553.86s]  Burbank traffic, Alaska 1052, taxi to position 15 for immediate departure
+[4554.86s - 4557.86s]  Alaska 1052 is holding short runway 15 as well
+[4558.86s - 4562.86s]  Burbank traffic, Alaska 1052 is departing runway 15
+[4563.86s - 4571.86s]  Burbank traffic, United 8165, line up at a 12 mile final for 8 in Burbank, passing through 4500 feet
+[4572.86s - 4576.86s]  Burbank traffic, twice the speed, crossing 15 as well for Burbank
+[4577.86s - 4583.86s]  Burbank traffic, Southwest 2594, just pushed off of Alpha 2, taxi to runway 15
+[4584.86s - 4586.86s]  Burbank traffic, Southwest 2594
+[4587.86s - 4592.86s]  Burbank traffic, Southwest 263, we're going to wait for American to pass behind us before we push
+[4593.86s - 4599.86s]  Burbank traffic, Southwest 2594 is on taxi lane Alpha, going to cross runway 15
+[4600.86s - 4602.86s]  Burbank traffic
+[4603.86s - 4609.86s]  United 8165 is 8 miles out, runway 8, passing 3500 feet
+[4610.86s - 4614.86s]  Burbank traffic, Southwest 2594 is clear of runway 8
+[4615.86s - 4620.86s]  Burbank traffic, Southwest 2594 is crossing runway 33 on taxiway Delta
+[4621.86s - 4628.86s]  Burbank traffic, Southwest 2594 is clear of runway 133, just ran onto taxiway Bravo
+[4629.86s - 4633.86s]  Burbank traffic, United 8165, 5 miles out, final on runway 8
+[4634.86s - 4639.86s]  Burbank traffic, Southwest 263 pushing off of gate Alpha 1, onto the ramp
+[4640.86s - 4644.86s]  United 8165, short final, runway 8
+[4645.86s - 4646.86s]  Burbank traffic
+[4647.86s - 4650.86s]  Burbank, Southwest 2594, calling for release
+[4651.86s - 4655.86s]  Southwest 2594, roger, just waiting for an IFR cancellation on United to our final
+[4656.86s - 4657.86s]  Alright, Southwest 2594
+[4658.86s - 4663.86s]  Burbank, Southwest 2594, crossing 15 on Bravo 2 to Alpha 2
+[4665.86s - 4666.86s]  Burbank traffic
+[4667.86s - 4672.86s]  Burbank, Southwest 2594 is clear of runway 15, 3 on taxiway Alpha
+[4673.86s - 4676.86s]  United 8165, short final, runway 8
+[4677.86s - 4678.86s]  Burbank traffic
+[4679.86s - 4682.86s]  Burbank, Southwest 2594, calling for release
+[4683.86s - 4687.86s]  Southwest 2594, roger, just waiting for an IFR cancellation on United to our final
+[4688.86s - 4689.86s]  Alright, Southwest 2594
+[4690.86s - 4695.86s]  Burbank, Southwest 2594, crossing 15 on Bravo 2 to Alpha 2
+[4697.86s - 4698.86s]  Burbank traffic
+[4699.86s - 4704.86s]  Burbank, Southwest 2594 is clear of runway 15, 3 on taxiway Alpha
+[4705.86s - 4707.86s]  United 8165, SoCal, you cancel?
+[4708.86s - 4709.86s]  United 8165
+[4710.86s - 4712.86s]  United 8165, thank you, IFR cancellation, see you, goodnight
+[4713.86s - 4719.86s]  Southwest 2594, you're released for departure, clearance void, if not off by 0306
+[4720.86s - 4726.86s]  If not off by 0306, advise the circuit to be promptly at attention, time now 0302.5
+[4727.86s - 4733.86s]  Okay, clear for departure off 15, void, if not off by 0306, we'll advise immediately if we're not off by then
+[4733.86s - 4734.86s]  Southwest 2594
+[4735.86s - 4746.86s]  Burbank traffic, Southwest 2594, lining up runway 15 for a departure to the west initially, then we're going to turn to the north
+[4747.86s - 4748.86s]  Burbank traffic
+[4749.86s - 4751.86s]  Burbank traffic, Southwest 2594, departing runway 15
+[4752.86s - 4753.86s]  Burbank traffic
+[4754.86s - 4755.86s]  Burbank traffic, Southwest 2594
+[4756.86s - 4762.86s]  Burbank traffic, Southwest 263, leaving ramp area, taxi across runway 8, joining taxiway Alpha
+[4763.86s - 4768.86s]  Burbank traffic, Southwest 2594, departing to the southwest, climbing to 4000
+[4769.86s - 4771.86s]  Burbank traffic, WestJet
+[4772.86s - 4773.86s]  Burbank Jet
+[4773.86s - 4774.86s]  WestJet
+[4776.86s - 4782.86s]  Burbank traffic, Southwest 263, clear of runway 8, we're on Alpha, making a left turn onto Delta
+[4783.86s - 4785.86s]  And we're now crossing runway 15 on Delta
+[4786.86s - 4787.86s]  Burbank
+[4788.86s - 4794.86s]  Burbank, traffic, United 8165, headed to gate B1, we'll be blocking 15
+[4795.86s - 4796.86s]  Who's blocking 1533?
+[4797.86s - 4799.86s]  That's United 8165, until we get to our gate
+[4799.86s - 4800.86s]  Burbank
+[4801.86s - 4807.86s]  Burbank traffic, Southwest 263, is clear of runway 15 on Delta, making a right turn onto Bravo
+[4808.86s - 4811.86s]  Taxiing down to Bravo 2 to hold short of runway 15
+[4813.86s - 4817.86s]  Burbank traffic, GW358, request takeoff
+[4818.86s - 4819.86s]  Burbank
+[4820.86s - 4823.86s]  So United, are you actually on runway 15?
+[4824.86s - 4826.86s]  Our wingtip was solid on runway 15
+[4827.86s - 4828.86s]  Okay, thanks
+[4829.86s - 4837.86s]  Burbank traffic, Southwest 263, making a right turn onto Bravo 2, crossing runway 15, joining Alpha 2
+[4838.86s - 4839.86s]  Burbank traffic
+[4840.86s - 4845.86s]  Burbank traffic, Southwest 263 is on Alpha 2, making a left turn onto Alpha
+[4846.86s - 4850.86s]  Clear of runway 15, taxiing on Alpha to hold short of runway 15
+[4851.86s - 4852.86s]  Burbank traffic
+[4853.86s - 4856.86s]  Okay Southwest, we're going to hold for you to cross 263
+[4856.86s - 4862.86s]  Foxjet, we are already clear of runway 15, we're on Alpha, taxiing northbound
+[4863.86s - 4868.86s]  I'll talk to you on the other side, we're going to hold short of Alpha and call in SoCal
+[4869.86s - 4870.86s]  Yeah
+[4873.86s - 4875.86s]  Roger, Southwest 263
+[4876.86s - 4877.86s]  Thank you
+[4878.86s - 4883.86s]  Burbank traffic, Southwest 263 is holding short of runway 15 at Alpha, Burbank traffic
+[4884.86s - 4890.86s]  SoCal, departure, Southwest 263 is holding short of runway 15 on Alpha, ready for departure
+[4891.86s - 4898.86s]  Burbank traffic, Big Stripe 183 is about 7 miles inbound on the ILS ULU runway 8, Burbank traffic
+[4899.86s - 4903.86s]  Southwest 263, SoCal, roger, just waiting for that Embraer to land and we'll get you going after her
+[4904.86s - 4905.86s]  Roger, Southwest 263
+[4906.86s - 4910.86s]  Burbank traffic, Big Stripe 183 is 5 miles final, runway 8, Burbank traffic
+[4910.86s - 4915.86s]  Burbank traffic, Big Stripe 183 is 2 miles final, runway 8, Burbank traffic
+[4916.86s - 4917.86s]  Burbank
+[4917.86s - 4923.86s]  Southwest 263, SoCal, approach and release for departure, hold off not by 0818, time now 0814
+[4924.86s - 4928.86s]  Off by 08... sorry, can you say that again, Southwest 263?
+[4928.86s - 4932.86s]  Southwest 263, release for departure, hold off not by 0318, time now 0314
+[4933.86s - 4937.86s]  Void is not off by 0318, Southwest 263
+[4938.86s - 4942.86s]  Burbank traffic, Big Stripe 183 is clear of runway 8 on Delta, Burbank traffic
+[4943.86s - 4947.86s]  Big Stripe 183, SoCal, approach and traffic departing runway 15 at 737
+[4948.86s - 4949.86s]  183, we'll hold short
+[4950.86s - 4955.86s]  Burbank traffic, Southwest 263 is taking the end of runway 15, Burbank traffic
+[4960.86s - 4964.86s]  Burbank traffic, Southwest 263 is taking off runway 15, Burbank traffic
+[4964.86s - 4967.86s]  Cleared for departure, 322, 332, SoCal, approach, standby
+[4969.86s - 4973.86s]  Burbank traffic, JetBlue 358, Airbus 220, 15 miles final, runway 8
+[4975.86s - 4981.86s]  Burbank traffic, Big Stripe 183 crossing 8 and 15 on the diagonal, we have an early Burbank traffic
+[4982.86s - 4985.86s]  Burbank traffic, Star 6, we have an early Burbank traffic
+[4987.86s - 4993.86s]  Burbank traffic, Southwest 263 is clear of runway 15, climbing out, heading 210
+[4993.86s - 4995.86s]  Switch into departure, Burbank traffic
+[4996.86s - 5000.86s]  Burbank traffic, Big Stripe 183 is clear of 15 on the diagonal, Burbank traffic
+[5006.86s - 5010.86s]  Burbank traffic, JetBlue 358, 5 mile final, runway 8, Burbank traffic
+[5011.86s - 5016.86s]  Burbank traffic, JetBlue 358, 2 mile final, runway 08, Burbank traffic
+[5016.86s - 5019.86s]  Burbank traffic, JetBlue 358, cleared for takeoff, Burbank traffic
+[5020.86s - 5022.86s]  Burbank traffic, JetBlue 358, cleared for takeoff, Burbank traffic
+[5022.86s - 5024.86s]  Airflight JetBlue 332, SoCal, will be about 2 minutes
+[5025.86s - 5026.86s]  Roger that, 8 knots
+[5027.86s - 5029.86s]  Van Nuys tower is open 24.6 on the frequency
+[5031.86s - 5033.86s]  JetBlue 358, SoCal, report cancelling IFR
+[5034.86s - 5038.86s]  Yes, Apache JetBlue 358, you can cancel IFR
+[5039.86s - 5042.86s]  JetBlue 358, IFR cancellation received, thank you, have a good night
+[5042.86s - 5043.86s]  Have a good night
+[5043.86s - 5048.86s]  Airflight JetBlue 332, you're released for departure, runway 15, contact departure, airborne 24.6
+[5049.86s - 5050.86s]  Released for departure, 15, Airflight JetBlue
+[5051.86s - 5055.86s]  Burbank traffic, JetBlue 358 is clear of runway 08, taxi to gate, Alpha
+[5057.86s - 5058.86s]  Burbank traffic, Airflight JetBlue
+[5059.86s - 5061.86s]  Star Trek 32, hold short, runway 15
+[5062.86s - 5070.86s]  Star Trek 32, runway 15, you're released for departure, contact departure 24.6, airborne
+[5071.86s - 5077.86s]  Burbank flight, JetBlue 332 is departing the pattern to the southwest, Burbank
+[5078.86s - 5085.86s]  Burbank traffic, Big Strip 176 is pushing back onto Charlie over by the JSX hangar, Burbank traffic
+[5087.86s - 5090.86s]  Big Strip 176, SoCal Approach, be advised there is no traffic inbound of runway 8
+[5091.86s - 5092.86s]  Oh, perfect, thanks
+[5092.86s - 5093.86s]  Oh, perfect, thanks
+[5094.86s - 5101.86s]  Burbank traffic, Big Strip 176, Embraer 145 crossing runway 8, Charlie 6, taxi via Bravo to 15, Burbank traffic
+[5102.86s - 5108.86s]  Burbank traffic, Big Strip 176 is clear of runway 8, taxi Bravo to 15, Burbank traffic
+[5110.86s - 5114.86s]  And SoCal, Big Strip 176, we're ready for departure in 2 minutes, if we can get a wheels up time
+[5115.86s - 5122.86s]  Big Strip 176, you're released for departure, avoid off now by 0340, time now 0336
+[5123.86s - 5128.86s]  Alright, 0340, avoid at 4, Big Strip 176
+[5129.86s - 5140.86s]  No, you're not off by 0341, report holding short, time now 0336, I need you off by 401
+[5141.86s - 5145.86s]  Oh, sorry about that, okay, got it, we'll be off by 401, Big Strip 176
+[5146.86s - 5154.86s]  Burbank traffic, Big Strip 176, continue on runway 15, set for departure to the west, Burbank traffic
+[5155.86s - 5164.86s]  Burbank traffic, helicopter, ReachMed 22 is about 5 to the southeast, inbound for the Atlantic ramp, any traffic in Burbank, please advise
+[5165.86s - 5168.86s]  ReachMed 22, traffic departing 15 southbound, Embraer
+[5169.86s - 5178.86s]  Right of that, ReachMed 22 is going to stay to the east side of 15, and pick up left downwind for 15
+[5180.86s - 5189.86s]  Burbank traffic, Big Strip 176, Embraer 145 just departed runway 15, we are upwind, runway 15 will be turning towards the west, Burbank traffic
+[5190.86s - 5200.86s]  Burbank traffic, helicopter, ReachMed 22 is about 3 to the southeast, coming north to 5, I got the Embraer, no factor for you, we'll be left downwind 15, Burbank
+[5201.86s - 5204.86s]  Big Strip 176, contact departure 124.6
+[5205.86s - 5207.86s]  Over departure, thanks for your help, Big Strip 176
+[5208.86s - 5219.86s]  Burbank traffic, helicopter, ReachMed 22 is left downwind, runway 15 will be turning base to final, shortly descending out of 1200, Burbank
+[5220.86s - 5226.86s]  Burbank traffic, helicopter, ReachMed 22 is left base to final, runway 15, Burbank
+[5227.86s - 5240.86s]  Burbank traffic, helicopter, ReachMed 22 is going to exit runway 15 at Delta, holding short of runway 8 at all times, at Delta 2 Atlantic, Burbank
+[5241.86s - 5245.86s]  Burbank traffic, helicopter, ReachMed 22 is clear of all runways, taxiways, at a
+[5247.86s - 5249.86s]  SoCal, United 2315
+[5250.86s - 5252.86s]  United 2315, SoCal, Port Trevor, Queen's Pass, ready to copy
+[5253.86s - 5254.86s]  Ready to copy, thank you
+[5255.86s - 5259.86s]  United 2315, you're cleared to descend from Skopje, the road to departure, according to the transition that is filed
+[5260.86s - 5267.86s]  Plan VF, maintain 4000, expect 340 in 10, departure frequency airborne, 124.6, squawk 7310
+[5268.86s - 5270.86s]  United 2315
+[5271.86s - 5275.86s]  United 2315, clearance to go back correct, hold short of the runway and rise ready for departure
+[5276.86s - 5277.86s]  Will tell, United 2315
+[5278.86s - 5288.86s]  Burbank traffic, Spiritwing 2648, 2205, 4 miles to the west on final, 08, Burbank
+[5289.86s - 5292.86s]  Any traffic in the area for Burbank, please advise
+[5294.86s - 5300.86s]  Burbank traffic, Spiritwing 2648, 2 miles, final, 08, Burbank
+[5301.86s - 5310.86s]  Burbank traffic, American 2597 to 737, we're about 12 miles north of the field, setting up for the ILS runway, 08, Burbank
+[5311.86s - 5318.86s]  Burbank traffic, American 2597, Boeing 737, we're on a 10 mile left base, runway 08, Burbank
+[5319.86s - 5326.86s]  Burbank traffic, American 2597, Boeing 737, we're on a 10 mile left base, runway 08, Burbank
+[5327.86s - 5329.86s]  Burbank traffic, United
+[5330.86s - 5336.86s]  Burbank traffic, American 2597, Boeing 737, 10 mile final, runway 08, Burbank
+[5337.86s - 5339.86s]  United 2315, is this the...
+[5340.86s - 5345.86s]  Burbank traffic, American 2597, 5 mile final, runway 08, Burbank
+[5346.86s - 5350.86s]  And just to confirm for United, on the ground at Burbank, you're going to be holding short of runway 08?
+[5351.86s - 5352.86s]  Yes, we're holding short of runway 08
+[5353.86s - 5358.86s]  Burbank traffic, American 2597, 73, short final, runway 08
+[5358.86s - 5362.86s]  And SoCal, American 2597, on the ground, and we'll schedule
+[5363.86s - 5365.86s]  Burbank 2597, SoCal, approach, Alpharadcaster, receive, have a good night
+[5366.86s - 5366.86s] 
+[5367.86s - 5368.86s]  Burbank traffic, United
+[5369.86s - 5372.86s]  And SoCal, American 2597, clear of runway 08, Burbank
+[5373.86s - 5377.86s]  United 2315, traffic for runway 08 is about 15 miles out
+[5378.86s - 5379.86s]  United 2315
+[5380.86s - 5383.86s]  United 2315, if you want to cross runway 08, traffic is about 15 miles out
+[5384.86s - 5385.86s]  Copy, thank you
+[5385.86s - 5386.86s]  Burbank traffic, United
+[5387.86s - 5391.86s]  2315 is clear of runway 1533, turning right on Charlie
+[5392.86s - 5393.86s]  Up to Bravo, to call
+[5394.86s - 5395.86s]  Burbank traffic, United
+[5396.86s - 5399.86s]  2315 is clear of runway 08, 26
+[5400.86s - 5409.86s]  Burbank traffic, good afternoon, Southwest 3986, we're 6 miles out on ILS Zulu, runway 08, Burbank traffic
+[5410.86s - 5418.86s]  Burbank traffic, Southwest 3986, 4 miles out on ILS Zulu, runway 08, Burbank traffic
+[5419.86s - 5424.86s]  Burbank traffic, Southwest 3986, 3 miles out, runway 08
+[5425.86s - 5430.86s]  Burbank traffic, Southwest 3986, short final, runway 08
+[5431.86s - 5435.86s]  Approach, Southwest 3686, on ground, canceling IFR
+[5435.86s - 5439.86s]  Southwest 3986, SoCal approach, IFR cancelation received, have a good night
+[5440.86s - 5446.86s]  Burbank traffic, at least 106, Burbank traffic, crossing runway 08
+[5447.86s - 5454.86s]  Burbank traffic, Southwest 3986, clear of runway 08, Burbank traffic
+[5455.86s - 5456.86s]  SoCal
+[5457.86s - 5458.86s]  SoCal, say again
+[5459.86s - 5460.86s]  SoCal
+[5461.86s - 5466.86s]  2315, hold short, traffic on a 12 mile final, is an Embraer to runway 08
+[5467.86s - 5470.86s]  Copy, we'll hold short for 15 seconds
+[5471.86s - 5476.86s]  Burbank traffic, Skywest 5710, 7 miles straight in, runway 08, full stop, Burbank
+[5477.86s - 5483.86s]  Burbank traffic, Skywest 5710, 4 miles straight in, runway 08, full stop, Burbank
+[5484.86s - 5491.86s]  Burbank traffic, Police 100, maneuvering over the 5134, 1400, got that northbound 5 traffic in sight
+[5492.86s - 5494.86s]  Burbank tower, Fleet 16
+[5495.86s - 5496.86s]  Tower's closed
+[5497.86s - 5498.86s]  Copy
+[5498.86s - 5500.86s]  Hopefully they open up in the next 30 minutes
+[5501.86s - 5506.86s]  Skywest 2315, you're released departure, runway 15, contact departure 246, airborne
+[5507.86s - 5512.86s]  246, Skywest 5710, clear of runway 08, taxi
+[5513.86s - 5516.86s]  Skywest 5710, traffic departing 15, United Aircrafts
+[5517.86s - 5523.86s]  United, 2315 is off, passing 1000 feet, turning southwest
+[5524.86s - 5525.86s]  2315, contact departure, goodnight
+[5526.86s - 5527.86s]  Blue Switch, take care, goodnight
+[5530.86s - 5535.86s]  Burbank traffic, Southwest 892, about a 4 mile final, visual for runway 08, Burbank
+[5537.86s - 5541.86s]  Burbank traffic, Southwest 892, short final, about 2 miles, visual for 08
+[5543.86s - 5546.86s]  Burbank traffic, Southwest 892, cleared to exit, Southwest

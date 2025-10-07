@@ -1,0 +1,12 @@
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-06-2025-2300Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-06-2025-2330Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0000Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0030Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0100Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0130Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0200Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0230Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0300Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0330Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0400Z.mp3
+wget https://archive.liveatc.net/kbur/KBUR3-Twr-Oct-07-2025-0430Z.mp3

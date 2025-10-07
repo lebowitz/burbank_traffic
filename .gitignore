@@ -6,12 +6,13 @@ __pycache__/
 *.egg-info/
 .env
 
-# Audio files (too large for git)
-*.mp3
+# Original individual MP3 files (not needed for deployment)
+KBUR3-Twr-Oct-*.mp3
 
 # Transcripts and data
 *.json
-processed/
+processed/*.txt
+processed/concat_list.txt
 
 # Scripts (not needed for deployment)
 *.sh

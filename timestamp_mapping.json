@@ -1,0 +1,92 @@
+{
+  "original_files": [
+    {
+      "filename": "KBUR3-Twr-Oct-06-2025-2300Z.mp3",
+      "start_utc": "2025-10-06T23:00:00+00:00",
+      "start_pdt": "04:00 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-06-2025-2330Z.mp3",
+      "start_utc": "2025-10-06T23:30:00+00:00",
+      "start_pdt": "04:30 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0000Z.mp3",
+      "start_utc": "2025-10-07T00:00:00+00:00",
+      "start_pdt": "05:00 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0030Z.mp3",
+      "start_utc": "2025-10-07T00:30:00+00:00",
+      "start_pdt": "05:30 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0100Z.mp3",
+      "start_utc": "2025-10-07T01:00:00+00:00",
+      "start_pdt": "06:00 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0130Z.mp3",
+      "start_utc": "2025-10-07T01:30:00+00:00",
+      "start_pdt": "06:30 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0200Z.mp3",
+      "start_utc": "2025-10-07T02:00:00+00:00",
+      "start_pdt": "07:00 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0230Z.mp3",
+      "start_utc": "2025-10-07T02:30:00+00:00",
+      "start_pdt": "07:30 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0300Z.mp3",
+      "start_utc": "2025-10-07T03:00:00+00:00",
+      "start_pdt": "08:00 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0330Z.mp3",
+      "start_utc": "2025-10-07T03:30:00+00:00",
+      "start_pdt": "08:30 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0400Z.mp3",
+      "start_utc": "2025-10-07T04:00:00+00:00",
+      "start_pdt": "09:00 PM",
+      "duration_seconds": 1800
+    },
+    {
+      "filename": "KBUR3-Twr-Oct-07-2025-0430Z.mp3",
+      "start_utc": "2025-10-07T04:30:00+00:00",
+      "start_pdt": "09:30 PM",
+      "duration_seconds": 1800
+    }
+  ],
+  "recording_window": {
+    "start_utc": "2025-10-06T23:00:00+00:00",
+    "end_utc": "2025-10-07T05:00:00+00:00",
+    "start_pdt": "04:00 PM",
+    "end_pdt": "10:00 PM",
+    "original_duration_seconds": 21600.0
+  },
+  "processed": {
+    "duration_seconds": 5546.85986328125,
+    "compression_ratio": 0.25679906774450234
+  },
+  "timezone_info": {
+    "airport": "KBUR",
+    "timezone": "PDT (UTC-7)",
+    "note": "Burbank Airport observes Pacific Daylight Time in October"
+  }
+}

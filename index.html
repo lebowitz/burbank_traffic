@@ -5,112 +5,219 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BurbankTraffic - KBUR Tower Communications Oct 6-7, 2025</title>
     <style>
+        :root {
+            --aviation-navy: #1a2332;
+            --aviation-blue: #2c5aa0;
+            --sky-blue: #5b9bd5;
+            --light-sky: #e8f4fd;
+            --runway-gray: #626570;
+            --accent-orange: #ff6b35;
+            --white: #ffffff;
+            --light-gray: #f8f9fa;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: Arial, sans-serif;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 20px;
-            background-color: #f5f5f5;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Roboto', 'Helvetica Neue', sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0;
+            background: linear-gradient(to bottom, var(--light-sky) 0%, var(--white) 300px);
+            background-attachment: fixed;
+            color: var(--aviation-navy);
+            line-height: 1.6;
         }
+
         h1 {
-            color: #333;
+            color: var(--aviation-navy);
+            font-weight: 600;
+            font-size: 2.5rem;
+            margin: 0 0 0.25rem 0;
+            letter-spacing: -0.02em;
+            padding: 40px 30px 0 30px;
         }
+
+        h1::before {
+            content: "✈";
+            margin-right: 12px;
+            color: var(--aviation-blue);
+        }
+
+        body > p {
+            padding: 0 30px;
+            margin: 0 0 30px 0;
+        }
+
         #audio-player {
             width: 100%;
-            margin: 20px 0;
-            padding: 15px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin: 0 0 30px 0;
+            padding: 25px 30px;
+            background: var(--white);
+            border-top: 3px solid var(--aviation-blue);
+            border-bottom: 1px solid #e0e0e0;
         }
+
         audio {
             width: 100%;
+            height: 40px;
         }
+
         #transcript {
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            background: var(--white);
+            padding: 30px;
+            margin: 0 0 30px 0;
+            border-left: 4px solid var(--sky-blue);
         }
+
         .segment {
-            padding: 10px;
-            margin: 5px 0;
-            border-left: 3px solid #ddd;
+            padding: 12px 16px;
+            margin: 0 0 2px 0;
+            border-left: 3px solid transparent;
+            transition: all 0.2s ease;
         }
+
         .segment:hover {
-            background-color: #f0f0f0;
-            border-left-color: #4CAF50;
+            background-color: var(--light-sky);
+            border-left-color: var(--aviation-blue);
+            transform: translateX(4px);
         }
+
         .segment a {
-            color: #333;
+            color: var(--aviation-navy);
             text-decoration: none;
             display: block;
             position: relative;
-            padding-left: 20px;
+            padding-left: 24px;
+            font-size: 0.95rem;
         }
+
         .segment a:before {
-            content: "🔗";
+            content: "▸";
             position: absolute;
             left: 0;
-            opacity: 0.3;
-            font-size: 0.8em;
+            color: var(--sky-blue);
+            opacity: 0.4;
+            font-size: 0.9em;
+            transition: opacity 0.2s ease;
         }
+
         .segment a:hover {
-            color: #2196F3;
+            color: var(--aviation-blue);
         }
+
         .segment a:hover:before {
-            opacity: 0.8;
+            opacity: 1;
+            color: var(--aviation-blue);
         }
+
         #background {
-            background: white;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            line-height: 1.6;
+            background: var(--white);
+            padding: 30px;
+            margin: 0 0 30px 0;
+            border-left: 4px solid var(--accent-orange);
+            line-height: 1.7;
         }
+
         #background h2 {
-            color: #333;
+            color: var(--aviation-navy);
             margin-top: 0;
+            font-weight: 600;
+            font-size: 1.75rem;
+            letter-spacing: -0.01em;
         }
+
         #background h3 {
-            color: #555;
-            margin-top: 1.2em;
+            color: var(--aviation-blue);
+            margin-top: 1.5em;
+            font-weight: 600;
+            font-size: 1.25rem;
         }
+
         #background ul {
-            margin: 10px 0;
+            margin: 15px 0;
+            padding-left: 20px;
         }
+
         #background li {
-            margin: 5px 0;
+            margin: 8px 0;
+            padding-left: 8px;
         }
+
+        #background li strong {
+            color: var(--aviation-blue);
+        }
+
         .stats {
-            color: #666;
+            color: var(--runway-gray);
             font-style: italic;
-            margin: 10px 0;
+            margin: 15px 0;
+            padding: 15px;
+            background: var(--light-gray);
+            border-radius: 4px;
+            border-left: 3px solid var(--sky-blue);
+            font-size: 0.9rem;
         }
+
+        #background a {
+            color: var(--aviation-blue);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s ease;
+        }
+
+        #background a:hover {
+            border-bottom-color: var(--aviation-blue);
+        }
+
         #airport-diagram {
-            background: white;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            background: var(--white);
+            padding: 30px;
+            margin: 0 0 30px 0;
             text-align: center;
+            border-left: 4px solid var(--sky-blue);
         }
+
         #airport-diagram h2 {
-            color: #333;
+            color: var(--aviation-navy);
             margin-top: 0;
+            font-weight: 600;
+            font-size: 1.75rem;
         }
+
         #airport-diagram img {
             max-width: 100%;
             height: auto;
-            border: 1px solid #ddd;
+            border: 2px solid var(--light-gray);
             border-radius: 4px;
+            box-shadow: 0 4px 12px rgba(26, 35, 50, 0.08);
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+                padding: 30px 20px 0 20px;
+            }
+
+            body > p {
+                padding: 0 20px;
+            }
+
+            #audio-player,
+            #transcript,
+            #background,
+            #airport-diagram {
+                padding: 20px;
+                margin: 0 0 20px 0;
+            }
         }
     </style>
 </head>
 <body>
     <h1>BurbankTraffic</h1>
-    <p style="color: #666; margin-top: -10px;">KBUR Tower Communications - October 6-7, 2025</p>
+    <p style="color: var(--runway-gray); font-size: 1.1rem; font-weight: 500;">KBUR Tower Communications - October 6-7, 2025</p>
 
     <div id="background">
         <h2>Background</h2>
@@ -132,7 +239,7 @@
         <p class="stats">Recording: 92:27 duration | 1,020 transcript segments | Transcribed using OpenAI Whisper</p>
 
         <p style="margin-top: 15px;">
-            <a href="https://github.com/lebowitz/burbank_traffic" target="_blank" style="color: #2196F3; text-decoration: none;">
+            <a href="https://github.com/lebowitz/burbank_traffic" target="_blank">
                 📁 View source code and scripts on GitHub
             </a>
         </p>
